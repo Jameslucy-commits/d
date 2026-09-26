@@ -1,88 +1,3031 @@
 [
   {
-    "num": 1,
+    "id": 0,
+    "number": "籤王",
     "i18n": {
       "zh-TW": {
-        "title": "第一首",
-        "type": "上上吉",
-        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
-        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+        "title": "【籤王】",
+        "type": "上上",
+        "text": "求得籤王百事良\n萬事如意大吉昌\n宜加力作行方便\n可保福壽永安康",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
       },
       "en-US": {
-        "title": "No. 1",
-        "type": "Supreme Fortune",
-        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
-        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+        "title": "King Stick 【上上】",
+        "type": "上上",
+        "text": "Auspicious fortune for all endeavors; may everything go smoothly and bring great luck. With diligent effort and helpful actions, you can ensure lasting happiness, longevity, and peace.",
+        "explain": "Online Interpretation Service available below."
       },
       "ja-JP": {
-        "title": "第一首",
+        "title": "籤王【上上】",
+        "type": "上上",
+        "text": "あらゆる努力に幸多かれ。すべてが順調に進み、大きな幸運が訪れますように。勤勉な努力と有益な行動によって、永続的な幸福、長寿、そして平和がもたらされますように。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "괘왕【上上】",
+        "type": "上上",
+        "text": "모든 일에 길운이 가득하길 기원합니다. 모든 일이 순조롭게 진행되고 큰 행운이 찾아오기를 바랍니다. 부지런한 노력과 선행으로 영원한 행복과 장수, 평화를 누리실 수 있을 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "number": "第1籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第1籤【大吉】",
         "type": "大吉",
-        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
-        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+        "text": "巍巍獨步向雲間\n玉殿千官第一班\n富貴榮華天付汝\n福如東海壽如山\r",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.1 【Great Fortune】",
+        "type": "Great Fortune",
+        "text": "Majestic and soaring alone towards the clouds; First among a thousand officials in the Jade Palace; Wealth and glory bestowed upon you by Heaven; May your fortune be as vast as the Eastern Sea and your longevity as enduring as a mountain.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第1籤【大吉】",
+        "type": "大吉",
+        "text": "雄大に雲に向かって一人高く舞い上がる。玉宮の千人の官僚の中でも第一位。天から富と栄光を授けられ、東の海のように広大な富と、山のように堅固な長寿を授けられますように。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
       },
       "ko-KR": {
-        "title": "제 1 수",
+        "title": "제1괘【대길】",
         "type": "대길",
-        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
-        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+        "text": "위엄 넘치게 홀로 구름을 향해 솟아오르는 자여, 옥궁의 천신 중 으뜸이시여, 하늘이 당신께 부와 영광을 내려주시어, 당신의 재물이 동해처럼 넓고 장수하시옵소서.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
       }
     }
   },
   {
-    "num": 2,
+    "id": 2,
+    "number": "第2籤",
     "i18n": {
       "zh-TW": {
-        "title": "第二首",
-        "type": "中平籤",
-        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
-        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+        "title": "第2籤【上吉】",
+        "type": "上吉",
+        "text": "盈虛消息總天時\r\n自此君當百事宜\r\n若問前程歸縮地\r\n須憑方寸好修為",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
       },
       "en-US": {
-        "title": "No. 2",
-        "type": "Moderate Fortune",
-        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
-        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+        "title": "Stick No.2 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "The waxing and waning of fortunes are all governed by the timing of Heaven; from this point on, you should act accordingly in all things; if you inquire about your future or destiny, you must rely on your own inner cultivation.",
+        "explain": "Online Interpretation Service available below."
       },
       "ja-JP": {
-        "title": "第二首",
+        "title": "第2籤【上吉】",
+        "type": "上吉",
+        "text": "運勢の盛衰はすべて天のタイミングによって決まる。今後は、あらゆることにおいて天のタイミングに従って行動すべきである。もし自分の将来や運命について尋ねるならば、自らの内なる修養に頼らなければならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제2괘【상길】",
+        "type": "상길",
+        "text": "인생의 부침은 모두 하늘의 섭리에 따라 정해지므로, 모든 일에 있어서 그에 맞게 행동해야 합니다. 미래나 운명에 대해 궁금하다면, 오직 자신의 내면 수양에 의지해야 합니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "number": "第3籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第3籤【中吉】",
         "type": "中吉",
-        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
-        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+        "text": "衣食自然生處有\r\n勸君不用苦勞心\r\n但能孝悌存忠信\r\n福祿來成禍不侵",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.3 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Food and clothing will naturally come from where you live; I advise you not to toil with your heart. If you can be filial, fraternal, loyal, and trustworthy, blessings and prosperity will come, and misfortune will not befall you.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第3籤【中吉】",
+        "type": "中吉",
+        "text": "食料や衣服は、住む場所から自然に得られるでしょう。無理に苦労する必要はありません。親孝行、兄弟愛、忠誠心、そして誠実さを重んじるならば、祝福と繁栄が訪れ、不幸に見舞われることはないでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
       },
       "ko-KR": {
-        "title": "제 2 수",
-        "type": "중평",
-        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
-        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+        "title": "제3괘【중길】",
+        "type": "중길",
+        "text": "음식과 옷은 당연히 사는 곳에서 얻을 수 있으니, 마음을 다해 애쓰지 마십시오. 효도하고 형제애를 숭상하며 충성스럽고 신뢰할 수 있는 사람이 되면 복과 번영이 찾아오고 불행은 닥치지 않을 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
       }
     }
   },
   {
-    "num": 3,
+    "id": 4,
+    "number": "第4籤",
     "i18n": {
       "zh-TW": {
-        "title": "第三首",
-        "type": "下下籤",
-        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
-        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+        "title": "第4籤【下下】",
+        "type": "下下",
+        "text": "去年百事可相宜\r\n若較今年時運衰\r\n好把瓣香告神佛\r\n莫教福謝悔無追",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
       },
       "en-US": {
-        "title": "No. 3",
+        "title": "Stick No.4 【Bad Fortune】",
         "type": "Bad Fortune",
-        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
-        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+        "text": "Last year was auspicious for everything; if this year's fortunes are worse, then offer incense to the gods and Buddhas; lest blessings be lost and regret be futile.",
+        "explain": "Online Interpretation Service available below."
       },
       "ja-JP": {
-        "title": "第三首",
+        "title": "第4籤【凶】",
         "type": "凶",
-        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
-        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+        "text": "昨年はあらゆる面で幸運に恵まれた年でした。もし今年の運勢が悪ければ、神々や仏に香を捧げましょう。そうすれば、せっかくの幸運が失われ、後悔も無駄になるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
       },
       "ko-KR": {
-        "title": "제 3 수",
+        "title": "제4괘【하하】",
         "type": "하하",
-        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
-        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+        "text": "지난해는 모든 일에 길조였으니, 올해 운이 나쁘다면 신과 부처님께 향을 피우라. 그렇지 않으면 복을 잃고 후회가 헛될 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "number": "第5籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第5籤【中平】",
+        "type": "中平",
+        "text": "子有三般不自由\r\n門庭蕭索冷如秋\r\n若逢牛鼠交承日\r\n萬事回春不用憂",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.5 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "A son has three kinds of lack of freedom: His household is desolate and cold as autumn; But if he encounters the auspicious days of the Ox and Rat, All things will return to spring, and he need not worry.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第5籤【中平】",
+        "type": "中平",
+        "text": "息子には3種類の自由の欠如がある。彼の家は秋のように荒涼として冷たい。しかし、彼が丑と子の吉日に出会うならば、すべては春に戻り、彼は心配する必要はない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제5괘【중평】",
+        "type": "중평",
+        "text": "아들에게 자유가 없으면 세 가지 문제가 생긴다. 집안은 가을처럼 황량하고 춥지만, 소띠와 쥐띠 길일을 만나면 모든 것이 봄처럼 돌아오고 걱정할 필요가 없다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "number": "第6籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第6籤【下下】",
+        "type": "下下",
+        "text": "何勞鼓瑟更吹笙\r\n寸步如登萬里程\r\n彼此懷疑不相信\r\n休將私意憶濃情",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.6 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "Why bother playing the zither and blowing the flute? Every step feels like climbing a thousand miles. We doubt and distrust each other. Let us not dwell on our private feelings and deep affections.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第6籤【凶】",
+        "type": "凶",
+        "text": "琴を弾いたり笛を吹いたりする意味がどこにあるだろうか？一歩踏み出すごとに千マイルも登るような気分だ。私たちは互いに疑い、不信感を抱いている。個人的な感情や深い愛情に囚われるのはやめよう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제6괘【하하】",
+        "type": "하하",
+        "text": "왜 굳이 쇠뜨기를 하고 피리를 불어야 할까요? 한 걸음 한 걸음 내딛는 것이 천 리 길을 오르는 것처럼 느껴지는데 말입니다. 우리는 서로를 의심하고 불신합니다. 사적인 감정과 깊은 애정에 얽매이지 맙시다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "number": "第7籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第7籤【大吉】",
+        "type": "大吉",
+        "text": "仙風道骨本天生\r\n又遇仙宗為主盟\r\n指日丹成謝巖谷\r\n一朝引領向天行",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.7 【Great Fortune】",
+        "type": "Great Fortune",
+        "text": "Born with the bearing of an immortal,\n\nAnd encountering a celestial sect as his leader,\n\nthe elixir will soon be completed, and Xie Yan Valley will be his guide,\n\nleading him towards the heavens.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第7籤【大吉】",
+        "type": "大吉",
+        "text": "不老不死の風格を身にまとい、\n\n天界の宗派を指導者として迎え、\n\n霊薬は間もなく完成し、謝炎谷が彼を導き、\n\n天界へと至る。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제7괘【대길】",
+        "type": "대길",
+        "text": "신선의 기운을 지니고 태어난 그는,\n\n천상 문파의 지도자를 만나게 되고,\n\n곧 영약이 완성될 것이며, 사연곡이 그의 길잡이가 되어\n\n그를 하늘로 인도할 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "number": "第8籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第8籤【上上】",
+        "type": "上上",
+        "text": "年來耕稼苦無收\r\n今歲田疇定有秋\r\n況遇太平無事日\r\n士農工賈百無憂",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.8 【上上】",
+        "type": "上上",
+        "text": "Years of toil have yielded no harvest; this year, the fields will surely yield a bountiful harvest; moreover, in these peaceful and tranquil times, scholars, farmers, artisans, and merchants alike have no worries.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第8籤【上上】",
+        "type": "上上",
+        "text": "長年の苦労は実を結ばなかったが、今年はきっと豊かな収穫をもたらしてくれるだろう。さらに、この平和で穏やかな時代には、学者も農民も職人も商人も、皆何の心配もない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제8괘【上上】",
+        "type": "上上",
+        "text": "수년간의 노고에도 불구하고 아무런 결실을 거두지 못했지만, 올해는 틀림없이 들판에 풍성한 수확이 있을 것이다. 게다가 이처럼 평화롭고 고요한 시대에는 학자, 농부, 장인, 상인 모두 아무런 걱정 없이 살아갈 수 있다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "number": "第9籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第9籤【大吉】",
+        "type": "大吉",
+        "text": "望渠消息向長安\r\n常把菱花仔細看\r\n見說文書將入境\r\n今朝喜色上眉端",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.9 【Great Fortune】",
+        "type": "Great Fortune",
+        "text": "Hoping for news from Chang'an, I often carefully examine the mirror. Hearing that the official document is about to arrive, joy fills my eyes this morning.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第9籤【大吉】",
+        "type": "大吉",
+        "text": "長安からの便りを待ちながら、私はよく鏡を注意深く見つめていた。今朝、公式文書がもうすぐ届くと聞いて、喜びが私の目に溢れた。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제9괘【대길】",
+        "type": "대길",
+        "text": "장안에서 소식이 오기를 바라며 나는 종종 거울을 유심히 들여다보곤 했다. 오늘 아침 공식 문서가 곧 도착한다는 소식을 듣고 기쁨에 눈이 부셨다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "number": "第10籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第10籤【下下】",
+        "type": "下下",
+        "text": "病患時時命蹇衰\r\n何須打瓦共鑽龜\r\n直教重見一陽後\r\n始可求神仗佛持",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.10 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "The sick are constantly on the verge of death; why bother with digging for earth or drilling into a tortoise shell? Only after the first glimmer of life returns can one seek divine intervention and rely on the Buddha's blessings.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第10籤【凶】",
+        "type": "凶",
+        "text": "病人は常に死の淵に立たされている。土を掘ったり、亀の甲羅に穴を開けたりすることに、一体何の意味があるだろうか？ 生命の兆しが少しでも戻って初めて、人は神の介入を求め、仏陀の加護に頼ることができるのだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제10괘【하하】",
+        "type": "하하",
+        "text": "병자는 끊임없이 죽음의 문턱에 서 있는데, 어찌 흙을 파거나 거북이 등껍질에 구멍을 뚫으려 애쓰겠는가? 생명의 첫 희미한 빛이 되살아난 후에야 비로소 신의 개입을 구하고 부처님의 은총에 의지할 수 있다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "number": "第11籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第11籤【下下】",
+        "type": "下下",
+        "text": "今年好事一番新\r\n富貴榮華萃汝身\r\n誰識機關難料處\r\n到頭獨立轉傷神",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.11 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "This year brings a new batch of good things; wealth and glory surround you; but who knows the unpredictable twists and turns of fate? In the end, you'll only find yourself alone, heartbroken.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第11籤【凶】",
+        "type": "凶",
+        "text": "今年は新たな幸運が訪れ、富と栄光があなたを取り囲むでしょう。しかし、運命の予測不可能な紆余曲折は誰にも分かりません。結局、あなたは孤独と失意に打ちひしがれることになるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제11괘【하하】",
+        "type": "하하",
+        "text": "올해는 새로운 행운이 가득할 거예요. 부와 영광이 당신을 둘러싸겠지만, 운명의 예측할 수 없는 굴곡은 어떻게 될까요? 결국 당신은 상처받은 채 홀로 남게 될지도 몰라요.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "number": "第12籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第12籤【中平】",
+        "type": "中平",
+        "text": "營為期望在春前\r\n誰料秋來又不然\r\n直遇清江貴公子\r\n一生活計始安全",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.12 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "I had high hopes before spring, but autumn brought a different story. Then I met the noble young master of Qingjiang, and my livelihood became secure.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第12籤【中平】",
+        "type": "中平",
+        "text": "春が来る前は大きな期待を抱いていたが、秋になると状況は一変した。しかし、清江の高貴な若様と出会い、私の生活は安定した。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제12괘【중평】",
+        "type": "중평",
+        "text": "봄이 오기 전에는 큰 기대를 품었지만, 가을이 되자 상황은 달라졌습니다. 그러다 청강의 고귀한 젊은 도련님을 만나게 되었고, 덕분에 생계가 안정되었습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "number": "第13籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第13籤【中平】",
+        "type": "中平",
+        "text": "君今庚甲未亨通\r\n且向江頭作釣翁\r\n玉兔重生應發跡\r\n萬人頭上逞英雄",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.13 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "You, born in the year of Geng or Jia, have not yet achieved success; perhaps you should remain a fisherman by the river. The Jade Rabbit's rebirth should bring you great fortune; you will rise to prominence amidst thousands.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第13籤【中平】",
+        "type": "中平",
+        "text": "庚または賈の年に生まれたあなたは、まだ成功を収めていません。もしかしたら、川辺の漁師のままでいる方が良いかもしれません。玉兎の転生はあなたに大きな幸運をもたらし、あなたは多くの人々の中で頭角を現すでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제13괘【중평】",
+        "type": "중평",
+        "text": "경(虛)이나 가(嘉)띠 해에 태어난 당신은 아직 성공을 거두지 못했으니, 강가에서 어부로 살아가는 것이 나을지도 모릅니다. 하지만 옥토끼의 환생은 당신에게 큰 행운을 가져다줄 것이며, 수많은 사람들 가운데서 두각을 나타낼 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "number": "第14籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第14籤【下下】",
+        "type": "下下",
+        "text": "一見佳人便喜歡\r\n誰知去後有多般\r\n人情冷暖君休訝\r\n歷涉應知行路難",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.14 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "I was captivated at first sight; but who knew what awaited me afterward? Don't be surprised by the fickle nature of human relationships; having traversed many trials, you'll know the journey is difficult.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第14籤【凶】",
+        "type": "凶",
+        "text": "一目惚れだったけれど、その後に何が待ち受けているのか、誰にも分からなかった。人間関係の移ろいやすさに驚かないで。数々の試練を乗り越えてきたあなたなら、その道のりが困難であることを知っているはずだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제14괘【하하】",
+        "type": "하하",
+        "text": "첫눈에 반했지만, 그 후 어떤 일이 기다리고 있을지는 아무도 몰랐죠. 인간관계의 변덕스러움에 놀라지 마세요. 수많은 시련을 겪어본 사람이라면 그 여정이 얼마나 힘든지 알 겁니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "number": "第15籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第15籤【中平】",
+        "type": "中平",
+        "text": "兩家門戶各相當\r\n不是姻緣莫較量\r\n直待春風好消息\r\n卻調琴瑟向蘭房",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.15 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "The two families are of equal standing; not destined for each other, so let's not compete; awaiting good news in the spring breeze; then we'll tune our zither and lute in our boudoir.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第15籤【中平】",
+        "type": "中平",
+        "text": "二つの家柄は対等であり、互いに縁があるわけではないので、競い合うのはやめよう。春風に乗って良い知らせを待ち、それから寝室でツィターとリュートの調律をしよう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제15괘【중평】",
+        "type": "중평",
+        "text": "두 가문은 동등한 지위에 있지만, 서로에게 어울리지 않으니 경쟁하지 말자. 봄바람에 실려 좋은 소식이 오기를 기다리며, 그때가 되면 우리 방에서 쇠와 류트를 조율하자.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "number": "第16籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第16籤【下下】",
+        "type": "下下",
+        "text": "官事悠悠難辨明\r\n不如息了且歸耕\r\n旁人煽惑君休信\r\n此事當謀親弟兄",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.16 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "Official business is long and complicated, difficult to discern; better to retire and return to farming; do not believe those who incite you; this matter should be discussed with your brothers.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第16籤【凶】",
+        "type": "凶",
+        "text": "公務は長くて複雑で、見極めるのが難しい。引退して農業に戻る方が良い。あなたを扇動する者の言うことを信じてはいけない。この件は兄弟たちと話し合うべきだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제16괘【하하】",
+        "type": "하하",
+        "text": "공무는 길고 복잡하며 분별하기 어렵습니다. 차라리 은퇴하여 농사로 돌아가는 것이 낫습니다. 당신을 선동하는 자들의 말을 믿지 마십시오. 이 문제는 형제들과 상의해야 합니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "number": "第17籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第17籤【下下】",
+        "type": "下下",
+        "text": "田園價貫好商量\r\n事到公庭彼此傷\r\n縱使機關圖得勝\r\n定為後世子孫殃",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.17 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "The price of farmland is negotiable; but in court, both sides suffer. Even if one succeeds through cunning schemes, it will surely bring misfortune to future generations.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第17籤【凶】",
+        "type": "凶",
+        "text": "農地の価格は交渉可能だが、裁判になれば双方に不利益が生じる。たとえ巧妙な策略で勝訴したとしても、必ずや後世に不幸をもたらすことになるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제17괘【하하】",
+        "type": "하하",
+        "text": "농지 가격은 협상 가능하지만, 법정에서는 양측 모두 손해를 본다. 설령 교활한 계략으로 승리한다 하더라도, 이는 분명 후손에게 불행을 가져다줄 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "number": "第18籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第18籤【中平】",
+        "type": "中平",
+        "text": "知君指擬是空華\r\n底事茫茫未有涯\r\n牢把腳根踏實地\r\n善為善應永無差",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.18 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "I know you're pointing to empty illusions; the truth remains shrouded in mystery. Firmly hold your feet on solid ground; doing good will never go wrong.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第18籤【中平】",
+        "type": "中平",
+        "text": "あなたが指摘しているのは空虚な幻想だと分かっています。真実は依然として謎に包まれています。しっかりと地に足をつけていてください。善行は決して間違いではありません。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제18괘【중평】",
+        "type": "중평",
+        "text": "당신이 헛된 환상을 가리키고 있다는 걸 알아요. 진실은 여전히 ​​불가사의에 싸여 있죠. 하지만 발을 굳건히 땅에 딛고 서세요. 선행은 결코 잘못되지 않을 거예요.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "number": "第19籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第19籤【上吉】",
+        "type": "上吉",
+        "text": "嗟子從來未得時\r\n今年星運頗相宜\r\n營求動作都如意\r\n和合婚姻誕貴兒",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.19 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Alas, my time has never been right; this year's horoscope is quite favorable; all endeavors will be successful; harmonious marriage and the birth of a precious son.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第19籤【上吉】",
+        "type": "上吉",
+        "text": "ああ、私の運勢はこれまで一度も良くなかったけれど、今年の運勢はとても良好で、あらゆる努力が実を結び、円満な結婚生活と愛しい息子の誕生が訪れるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제19괘【상길】",
+        "type": "상길",
+        "text": "아쉽게도 저는 늘 운이 없었네요. 하지만 올해 운세는 아주 좋네요. 모든 일이 잘 될 거고, 결혼 생활도 화목하고, 귀한 아들도 태어날 거예요.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "number": "第20籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第20籤【下下】",
+        "type": "下下",
+        "text": "一生心事向誰論\r\n十八灘頭說與君\r\n世事盡從流水去\r\n功名富貴等浮雲",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.20 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "To whom can I confide my life's secrets? At the eighteen rapids, I'll tell you. All worldly affairs flow away like water; fame and fortune are but fleeting clouds.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第20籤【凶】",
+        "type": "凶",
+        "text": "私の人生の秘密を誰に打ち明ければいいのだろう？18の急流のほとりで、お話ししましょう。世俗の事はすべて水のように流れ去り、名声や富は束の間の雲に過ぎないのです。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제20괘【하하】",
+        "type": "하하",
+        "text": "누구에게 내 인생의 비밀을 털어놓을 수 있을까? 열여덟 개의 급류에서 말해줄게. 세상일은 모두 물처럼 흘러가고, 명예와 재산은 덧없는 구름에 불과해.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "number": "第21籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第21籤【下下】",
+        "type": "下下",
+        "text": "與君夙昔結成冤\r\n今日相逢那得緣\r\n好把經文多諷誦\r\n祈求戶內保嬋娟",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.21 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "We were sworn enemies in the past; what fate has brought us together today? Let us recite the scriptures often and pray for the well-being of our beloved wife.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第21籤【凶】",
+        "type": "凶",
+        "text": "かつては宿敵同士だった私たちが、今日こうして巡り会えるとは、一体どんな運命が私たちを結びつけたのだろうか。聖典を頻繁に唱え、愛する妻の健康と幸福を祈り続けよう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제21괘【하하】",
+        "type": "하하",
+        "text": "우리는 과거에 앙숙이었는데, 어찌 된 운명인지 오늘 다시 만나게 되었을까? 우리 사랑하는 아내의 안녕을 위해 자주 성경을 읽고 기도하자.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 22,
+    "number": "第22籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第22籤【上吉】",
+        "type": "上吉",
+        "text": "碧玉池中開白蓮\r\n莊嚴色相自天然\r\n生來骨格超凡俗\r\n正是人間第一仙",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.22 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "White lotuses bloom in the jade pond, their dignified beauty natural, their innate qualities extraordinary, truly the finest immortals on earth.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第22籤【上吉】",
+        "type": "上吉",
+        "text": "翡翠の池に咲く白い蓮の花は、その気品ある美しさは自然のままで、生まれ持った資質は並外れており、まさに地上で最も優れた仙女たちである。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제22괘【상길】",
+        "type": "상길",
+        "text": "옥빛 연못에 피어난 흰 연꽃은 고귀한 아름다움을 자연스럽게 드러내고, 타고난 자질은 비범하여 진정 세상에서 가장 아름다운 신선이라 할 수 있다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 23,
+    "number": "第23籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第23籤【下下】",
+        "type": "下下",
+        "text": "花開花謝在春風\r\n貴賤窮通百歲中\r\n羨子榮華今已矣\r\n到頭萬事總成空",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.23 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "Flowers bloom and fade in the spring breeze; wealth and poverty, success and failure, all come to naught in the end. Envy of your past glory is now gone; in the end, all things amount to nothing.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第23籤【凶】",
+        "type": "凶",
+        "text": "花は春風に咲き、そして散る。富も貧困も、成功も失敗も、結局はすべて無に帰する。過去の栄光への羨望も今は消え去り、結局、すべては無に帰するのだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제23괘【하하】",
+        "type": "하하",
+        "text": "봄바람에 꽃이 피었다가 시들듯, 부와 가난, 성공과 실패, 결국 모든 것은 허무하게 사라진다. 과거의 영광에 대한 부러움도 이제는 사라졌으니, 결국 모든 것은 아무것도 아니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 24,
+    "number": "第24籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第24籤【中吉】",
+        "type": "中吉",
+        "text": "一春萬事苦憂煎\r\n夏裏營求始帖然\r\n更遇秋成冬至後\r\n恰如騎鶴與腰纏",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.24 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Spring brings countless worries and anxieties; summer's struggles finally bring peace; autumn's harvest and winter's solstice follow; it's like riding a crane with a sash around your waist.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第24籤【中吉】",
+        "type": "中吉",
+        "text": "春は数えきれないほどの心配事や不安をもたらし、夏の苦闘はついに平和をもたらし、秋の収穫と冬至が続く。まるで腰に帯を締めて鶴に乗っているようなものだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제24괘【중길】",
+        "type": "중길",
+        "text": "봄은 수많은 걱정과 불안을 가져오고, 여름의 고난은 마침내 평화를 가져다주며, 가을의 수확과 동지가 뒤따른다. 마치 허리에 띠를 두른 학을 타고 가는 것과 같다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 25,
+    "number": "第25籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第25籤【中平】",
+        "type": "中平",
+        "text": "寅午戍年多阻滯\r\n亥子丑月漸亨嘉\r\n待逢玉兔金雞會\r\n枯木逢春自放花",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.25 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "The years of Yin, Wu, and Xu will bring many obstacles; the months of Hai, Zi, and Chou will gradually bring prosperity; awaiting the meeting of the Jade Rabbit and Golden Rooster, even withered trees will bloom again in spring.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第25籤【中平】",
+        "type": "中平",
+        "text": "陰、梵、虚の年は多くの障害をもたらし、海、紫、丑の月は徐々に繁栄をもたらし、玉兎と金鶏の出会いを待ち望むうちに、枯れた木々も春には再び花を咲かせるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제25괘【중평】",
+        "type": "중평",
+        "text": "음, 오, 허의 해에는 많은 어려움이 닥치겠지만, 해, 자, 초월이 되면 점차 번영이 찾아올 것이다. 옥토끼와 금계가 만나는 시기를 기다리면, 시든 나무도 봄에는 다시 꽃을 피울 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 26,
+    "number": "第26籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第26籤【中吉】",
+        "type": "中吉",
+        "text": "年來豐歉皆天數\r\n祇是今年旱較多\r\n與子定期三日內\r\n田疇霑足雨滂沱",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.26 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "The abundance or scarcity of crops each year is all determined by fate;\n\nThis year, however, drought has been particularly severe;\n\nWithin three days of our appointed time,\n\nthe fields will be soaked by torrential rain.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第26籤【中吉】",
+        "type": "中吉",
+        "text": "毎年の作物の豊作か不作かは、すべて運命によって決まる。\n\nしかし、今年は特に深刻な干ばつに見舞われている。\n\n定められた日から3日以内に、\n\n畑は豪雨に見舞われるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제26괘【중길】",
+        "type": "중길",
+        "text": "매년 농작물의 풍년이냐 흉년이냐는 전적으로 운명에 달려 있습니다.\n\n하지만 올해는 유난히 가뭄이 심합니다.\n\n우리가 정한 시간으로부터 사흘 안에,\n\n들판은 폭우로 흠뻑 젖을 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 27,
+    "number": "第27籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第27籤【中平】",
+        "type": "中平",
+        "text": "世間萬物各有主\r\n一粒一毫君莫取\r\n英雄豪傑自天生\r\n也須步步循規矩",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.27 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Everything in this world has its owner; do not take even a grain or a hair. Heroes and great men are born, but they too must follow the rules step by step.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第27籤【中平】",
+        "type": "中平",
+        "text": "この世のあらゆるものには持ち主がいる。一粒の穀物、髪の毛一本たりとも取ってはならない。英雄や偉大な人物は生まれるが、彼らもまた、一歩ずつ規則に従わなければならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제27괘【중평】",
+        "type": "중평",
+        "text": "이 세상 모든 것에는 주인이 있습니다. 곡식 한 알이나 머리카락 한 올도 함부로 가져가지 마십시오. 영웅과 위대한 인물은 타고나지만, 그들 역시 차근차근 규칙을 따라야 합니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 28,
+    "number": "第28籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第28籤【上吉】",
+        "type": "上吉",
+        "text": "公侯將相本無種\r\n好把勤勞契上天\r\n人事盡從天理見\r\n才高豈得困林泉",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.28 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Nobility and high rank are born into their positions; diligence is the key to success. Human affairs are ultimately governed by divine principles; talent should not be confined to seclusion.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第28籤【上吉】",
+        "type": "上吉",
+        "text": "高貴な身分や地位は生まれながらにして与えられるものであり、勤勉こそが成功の鍵である。人間の営みは究極的には神の摂理によって支配されており、才能は隠しておくべきではない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제28괘【상길】",
+        "type": "상길",
+        "text": "귀족 신분과 높은 지위는 타고나는 것이지만, 근면함은 성공의 열쇠이다. 인간사는 궁극적으로 신의 섭리에 따라 움직이며, 재능은 고립된 채 발휘되어서는 안 된다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 29,
+    "number": "第29籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第29籤【上上】",
+        "type": "上上",
+        "text": "祖宗積德幾多年\r\n源遠流長慶自然\r\n若更操修無倦已\r\n天須還汝舊青氈",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.29 【上上】",
+        "type": "上上",
+        "text": "For countless years, our ancestors have accumulated virtue; Its long-standing lineage brings natural blessings. If you continue your tireless practice, Heaven will surely restore your former glory.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第29籤【上上】",
+        "type": "上上",
+        "text": "幾千年もの間、私たちの祖先は徳を積み重ねてきました。その長きにわたる系譜は、自然の恵みをもたらします。あなたがたゆまぬ努力を続ければ、天は必ずあなたの栄光を取り戻してくれるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제29괘【上上】",
+        "type": "上上",
+        "text": "수많은 세월 동안 우리 선조들은 덕을 쌓아왔으며, 그 유구한 전통은 자연스러운 복을 가져다줍니다. 당신께서도 끊임없이 수행을 이어가신다면, 하늘은 반드시 당신의 옛 영광을 되찾아 주실 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 30,
+    "number": "第30籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第30籤【中吉】",
+        "type": "中吉",
+        "text": "奉公謹守莫欺心\r\n自有亨通吉利臨\r\n目下營求且休矣\r\n秋期與子定佳音",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.30 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Be honest and upright, and never deceive your conscience; good fortune and prosperity will naturally come. For now, cease all pursuits; we will surely have good news in the autumn.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第30籤【中吉】",
+        "type": "中吉",
+        "text": "正直で誠実であり、決して良心を欺いてはならない。そうすれば、幸運と繁栄は自然と訪れるだろう。今はあらゆる追求を止めなさい。秋には必ず良い知らせが届くはずだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제30괘【중길】",
+        "type": "중길",
+        "text": "정직하고 바르게 행동하고 결코 양심을 속이지 마십시오. 그러면 행운과 번영은 자연스럽게 따라올 것입니다. 지금은 모든 일을 멈추십시오. 가을이 되면 분명 좋은 소식이 있을 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 31,
+    "number": "第31籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第31籤【中吉】",
+        "type": "中吉",
+        "text": "秋冬作事只尋常\r\n春到門庭漸吉昌\r\n千里信音符遠望\r\n萱堂快樂未渠央",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.31 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Autumn and winter are ordinary days; spring arrives at the door, bringing good fortune; news arrives from afar; the joy of mother's home is endless.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第31籤【中吉】",
+        "type": "中吉",
+        "text": "秋と冬は平凡な日々。春が訪れ、幸運をもたらす。遠くから知らせが届く。母の家の喜びは尽きることがない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제31괘【중길】",
+        "type": "중길",
+        "text": "가을과 겨울은 평범한 날들이고, 봄은 문 앞에 찾아와 행운을 가져다주며, 먼 곳에서 소식이 들려오고, 어머니의 집에 있는 기쁨은 끝이 없다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 32,
+    "number": "第32籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第32籤【下下】",
+        "type": "下下",
+        "text": "勞心汨汨竟何歸\r\n疾病兼多是與非\r\n事到頭來渾似夢\r\n何如休要用心機",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.32 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "All this toil and worry, what is the end result? Illness brings with it much right and wrong. In the end, everything seems like a dream. Why not stop scheming?",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第32籤【凶】",
+        "type": "凶",
+        "text": "これだけの苦労と心配を重ねても、結局どうなるのだろう？病気は多くの善悪をもたらす。結局、すべてが夢のように思える。もう策略を巡らすのはやめようではないか？",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제32괘【하하】",
+        "type": "하하",
+        "text": "이 모든 수고와 걱정의 결과는 무엇일까요? 질병은 옳고 그름을 많이 가져오죠. 결국 모든 것이 꿈처럼 느껴집니다. 괜히 꾀를 부리는 건 그만두는 게 어떨까요?",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 33,
+    "number": "第33籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第33籤【中吉】",
+        "type": "中吉",
+        "text": "不分南北與西東\r\n眼底昏昏耳似聾\r\n熟讀黃庭經一卷\r\n不論貴賤與窮通",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.33 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Regardless of north, south, east, or west, eyes are dim and ears seem deaf. Having thoroughly studied the *Huang Ting Jing*, one can transcend social status and poverty.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第33籤【中吉】",
+        "type": "中吉",
+        "text": "北、南、東、西を問わず、目はかすみ、耳は聞こえないように見える。しかし、『黄庭経』を徹底的に研究すれば、社会的地位や貧困を超越することができる。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제33괘【중길】",
+        "type": "중길",
+        "text": "북쪽, 남쪽, 동쪽, 서쪽 어디에 있든 눈은 흐릿하고 귀는 먹먹한 듯하다. 그러나 『황정경』을 철저히 공부하면 신분과 가난을 초월할 수 있다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 34,
+    "number": "第34籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第34籤【中吉】",
+        "type": "中吉",
+        "text": "春夏纔過秋又冬\r\n紛紛謀慮攪心胸\r\n貴人垂手來相接\r\n休把私心情意濃",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.34 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Spring and summer have passed, autumn and winter have come; My mind is filled with worries and anxieties; A noble person extends a helping hand to me; Let me not let my private feelings fester.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第34籤【中吉】",
+        "type": "中吉",
+        "text": "春と夏が過ぎ、秋と冬がやってきた。私の心は心配と不安でいっぱいだ。高潔な人が私に手を差し伸べてくれた。私の内なる感情がこみ上げてくるのを止めよう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제34괘【중길】",
+        "type": "중길",
+        "text": "봄과 여름이 지나고 가을과 겨울이 왔네. 마음은 걱정과 근심으로 가득 차 있는데, 한 고귀한 분이 내게 도움의 손길을 내밀어 주셨으니, 내 마음속 응어리를 곱씹지 않도록 해다오.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 35,
+    "number": "第35籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第35籤【下下】",
+        "type": "下下",
+        "text": "一山如畫對清江\r\n門裏團圓事事雙\r\n誰料半途分折去\r\n空幃無語對銀缸",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.35 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "A picturesque mountain overlooks the clear river; Inside the gate, family reunions are complete; Who could have foreseen the devastation that came halfway through? Now, in silence, the empty bedchamber faces the silver lamp.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第35籤【凶】",
+        "type": "凶",
+        "text": "絵のように美しい山が澄んだ川を見下ろし、門の向こうでは家族の再会が実現する。途中で襲いかかる惨劇を誰が予見できただろうか。今、静寂の中、がらんとした寝室は銀色のランプに照らされている。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제35괘【하하】",
+        "type": "하하",
+        "text": "그림 같은 산이 맑은 강을 내려다보고, 대문 안에서는 가족들의 재회가 이루어졌지만, 그 중간에 닥쳐올 참혹한 파괴를 누가 예상했겠는가? 이제 텅 빈 침실은 고요함 속에 은빛 램프를 마주하고 있다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 36,
+    "number": "第36籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第36籤【上吉】",
+        "type": "上吉",
+        "text": "功名富貴自能為\r\n偶著先鞭莫問伊\r\n萬里鵬程君有分\r\n吳山頂上好鑽龜",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.36 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Fame and fortune are within one's own grasp; a chance encounter shouldn't be questioned; a boundless future awaits you; atop Mount Wu, one can easily find a tortoise shell.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第36籤【上吉】",
+        "type": "上吉",
+        "text": "名声と富は自らの手の届くところにある。偶然の出会いを疑うべきではない。無限の未来があなたを待っている。呉山の頂上では、亀の甲羅を簡単に見つけることができる。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제36괘【상길】",
+        "type": "상길",
+        "text": "명성과 부는 손이 닿는 곳에 있습니다. 우연한 만남을 의심할 필요는 없습니다. 무한한 미래가 당신을 기다립니다. 우산 정상에서는 거북이 등껍질을 쉽게 찾을 수 있습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 37,
+    "number": "第37籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第37籤【中吉】",
+        "type": "中吉",
+        "text": "焚香來告復何辭\r\n善惡平分汝自知\r\n屏卻昧公心裏事\r\n出門無礙是通時",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.37 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "I burn incense to offer my prayers; what more can I say? You know for yourself the true measure of good and evil. Set aside your concerns that cloud your judgment; going out without hindrance is the way of things.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第37籤【中吉】",
+        "type": "中吉",
+        "text": "私は祈りを捧げるために香を焚きます。他に何を言えばいいのでしょう？善悪の真の尺度はあなた自身が知っているはずです。判断力を曇らせるような心配事は捨ててください。何の妨げもなく進むのが世の常です。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제37괘【중길】",
+        "type": "중길",
+        "text": "나는 기도를 올리기 위해 향을 피웁니다. 더 무슨 말을 할 수 있겠습니까? 선과 악의 진정한 기준은 당신 스스로 알고 계실 것입니다. 판단력을 흐리게 하는 걱정거리를 내려놓으십시오. 아무런 방해 없이 나아가는 것이 세상의 이치입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 38,
+    "number": "第38籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第38籤【下下】",
+        "type": "下下",
+        "text": "蛩吟唧唧守孤幃\r\n千里懸懸望信歸\r\n等得榮華公子到\r\n秋冬括括雨靡靡",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.38 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "The crickets chirp and chirp, keeping vigil by the lonely bedchamber; A thousand miles away, I anxiously await news of your return; I wait for the arrival of the wealthy and powerful; Autumn and winter rains fall softly.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第38籤【凶】",
+        "type": "凶",
+        "text": "コオロギが鳴き続け、寂しい寝室のそばで見守っている。千マイルも離れた場所で、私はあなたの帰りを待ち焦がれている。富と権力を持つ者たちの到着を待ち望んでいる。秋と冬の雨が静かに降り注ぐ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제38괘【하하】",
+        "type": "하하",
+        "text": "귀뚜라미들이 외로운 침실 곁에서 쉴 새 없이 울어대네; 천 마일 떨어진 곳에서 나는 당신의 귀환 소식을 애타게 기다리네; 나는 부유하고 권력 있는 자들의 도착을 기다리네; 가을과 겨울비가 부드럽게 내리네.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 39,
+    "number": "第39籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第39籤【中下】",
+        "type": "中下",
+        "text": "北山門外好安居\r\n若問終時慎厥初\r\n堪笑包藏許多事\r\n鱗鴻雖便莫修書",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.39 【Moderate Low Fortune】",
+        "type": "Moderate Low Fortune",
+        "text": "A peaceful dwelling is found outside the North Mountain Gate; If you ask about the end, remember the beginning; It's laughable how many things are concealed; Though fish and geese may travel far, do not write letters.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第39籤【中下吉】",
+        "type": "中下吉",
+        "text": "北山門の外には平和な住まいがある。終わりを問うなら、始まりを思い出せ。隠されていることは笑えるほど多い。魚や雁は遠くまで旅をするが、手紙は書かない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제39괘【중하】",
+        "type": "중하",
+        "text": "북쪽 산문 밖에는 평화로운 집이 있네; 끝에 대해 ​​묻고 싶다면 시작을 기억하라; 얼마나 많은 것들이 감춰져 있는지 우습구나; 물고기와 거위는 멀리 날아갈지 몰라도 편지는 쓰지 마라.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 40,
+    "number": "第40籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第40籤【上吉】",
+        "type": "上吉",
+        "text": "新來換得好規模\r\n何用隨他步與趨\r\n只聽耳邊消息到\r\n崎嶇歷盡見亨衢",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.40 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "A new arrival brings a better scale; why follow his lead? Just hear the news; having traversed rugged paths, we see a prosperous road ahead.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第40籤【上吉】",
+        "type": "上吉",
+        "text": "新たな人材の加入は、より大きな成果をもたらす。なぜ彼に倣う必要があるのか​​？ニュースを聞けばわかるだろう。険しい道を乗り越え、私たちは輝かしい未来を見据えているのだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제40괘【상길】",
+        "type": "상길",
+        "text": "새로운 인물이 더 큰 규모를 가져왔는데, 왜 그의 뒤를 따라야 할까요? 소식만 들어보세요. 험난한 길을 헤쳐 나온 우리는 이제 번영의 길을 바라보고 있습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 41,
+    "number": "第41籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第41籤【上吉】",
+        "type": "上吉",
+        "text": "自南自北自東西\r\n欲到天涯誰作梯\r\n遇鼠逢牛三弄笛\r\n好將名姓榜頭題",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.41 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "From south, from north, from east, from west; who will be the ladder to reach the ends of the earth? Meeting a rat, encountering an ox, I'll play the flute thrice; may my name be inscribed at the top of the list.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第41籤【上吉】",
+        "type": "上吉",
+        "text": "南から、北から、東から、西から、誰が地の果てまで続く梯子となるのだろうか？ ネズミに出会い、牛に遭遇し、私は笛を三度吹こう。私の名前がリストの一番上に刻まれますように。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제41괘【상길】",
+        "type": "상길",
+        "text": "남쪽에서, 북쪽에서, 동쪽에서, 서쪽에서; 누가 땅끝까지 닿을 사다리가 되어 줄 것인가? 쥐를 만나든, 소를 만나든, 나는 피리를 세 번 불겠다. 내 이름이 명단 맨 위에 새겨지기를.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 42,
+    "number": "第42籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第42籤【中吉】",
+        "type": "中吉",
+        "text": "我曾許汝事和諧\r\n誰料修為果自乖\r\n但改新圖莫依舊\r\n營謀應得稱心懷",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.42 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "I promised you harmony, but alas, your actions have turned out contrary to your wishes. Let us change our plans, not remain the same. May our endeavors achieve their desired outcome.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第42籤【中吉】",
+        "type": "中吉",
+        "text": "私はあなたに調和を約束しましたが、残念ながら、あなたの行動はあなたの願いとは正反対の結果となりました。現状維持ではなく、計画を変更しましょう。私たちの努力が、望む結果をもたらしますように。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제42괘【중길】",
+        "type": "중길",
+        "text": "나는 당신에게 화합을 약속했지만, 안타깝게도 당신의 행동은 당신의 바람과는 정반대로 흘러갔습니다. 이제 우리의 계획을 바꿔야지, 그대로 머물러서는 안 됩니다. 우리의 노력이 원하는 결과를 가져오기를 바랍니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 43,
+    "number": "第43籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第43籤【中吉】",
+        "type": "中吉",
+        "text": "一紙官書火急催\r\n扁舟速下浪如雷\r\n雖然目下多驚險\r\n保汝平安去復回",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.43 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "An official letter urgently summons you; a small boat swiftly descends amidst thunderous waves; though danger lurks at this moment, I guarantee your safe return.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第43籤【中吉】",
+        "type": "中吉",
+        "text": "公式の召喚状があなたを緊急に呼び出します。轟音を立てる波の中、小型ボートが素早く下ります。今この瞬間、危険が潜んでいますが、あなたの無事な帰還を保証いたします。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제43괘【중길】",
+        "type": "중길",
+        "text": "긴급한 공식 소환장이 당신을 부릅니다. 작은 배 한 척이 거센 파도 속으로 빠르게 내려갑니다. 지금 이 순간 위험이 도사리고 있지만, 당신의 안전한 귀환을 보장합니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 44,
+    "number": "第44籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第44籤【中吉】",
+        "type": "中吉",
+        "text": "汝是人中最吉人\r\n誤為誤作損精神\r\n堅牢一念酬香願\r\n富貴榮華萃汝身",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.44 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "You are the luckiest person among men; Mistakes and errors harm your spirit; Firmly uphold your vow to repay kindness; Wealth and glory will gather upon you.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第44籤【中吉】",
+        "type": "中吉",
+        "text": "あなたは人類の中で最も幸運な人です。過ちや失敗はあなたの精神を傷つけます。恩に報いるという誓いをしっかりと守りなさい。そうすれば、富と栄光があなたに集まるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제44괘【중길】",
+        "type": "중길",
+        "text": "당신은 세상에서 가장 운이 좋은 사람입니다. 실수와 잘못은 당신의 정신을 해치지만, 은혜에 보답하겠다는 맹세를 굳게 지키십시오. 그러면 부와 영광이 당신을 찾아올 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 45,
+    "number": "第45籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第45籤【中吉】",
+        "type": "中吉",
+        "text": "好將心地力耕耘\r\n彼此山頭總是墳\r\n陰地不如心地好\r\n修為到底卻輸君",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.45 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Cultivate your heart with all your might; Each mountain peak is a graveyard; A good heart is better than a burial ground; Ultimately, your cultivation will be inferior to yours.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第45籤【中吉】",
+        "type": "中吉",
+        "text": "全身全霊を尽くして心を鍛えよ。どの山頂も墓場である。良い心は墓場よりも優れている。結局、お前の修練はお前のものに劣るだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제45괘【중길】",
+        "type": "중길",
+        "text": "온 힘을 다해 마음을 갈고닦으십시오. 모든 산봉우리는 무덤과 같습니다. 훌륭한 마음은 무덤보다 낫습니다. 결국, 당신의 수양은 당신의 마음보다 못할 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 46,
+    "number": "第46籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第46籤【中平】",
+        "type": "中平",
+        "text": "君是山中萬戶侯\r\n信知騎馬勝騎牛\r\n今朝馬上看山色\r\n爭似騎牛得自由",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.46 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "You are a powerful lord in the mountains, I know riding a horse is better than riding an ox. Today I admire the mountain scenery from horseback, But nothing compares to the freedom of riding an ox.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第46籤【中平】",
+        "type": "中平",
+        "text": "あなたは山岳地帯の力強い領主で、馬に乗る方が牛に乗るよりも良いことは承知しています。今日は馬に乗って山の景色を堪能しましたが、牛に乗る自由さにはかないません。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제46괘【중평】",
+        "type": "중평",
+        "text": "당신은 산에서 강력한 군주이시죠. 저는 말을 타는 것이 소를 타는 것보다 낫다는 것을 압니다. 오늘 저는 말을 타고 산의 풍경을 감상했지만, 소를 타고 가는 자유로움과는 비교할 수 없습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 47,
+    "number": "第47籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第47籤【中平】",
+        "type": "中平",
+        "text": "與君萬語復千言\r\n祗欲平和雪爾冤\r\n訟則終凶君記取\r\n試於清夜把心捫",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.47 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "I have a thousand words to say to you, Only wishing to peacefully clear your name and avenge your wrongs. Litigation will only end badly, remember this. Try to examine your heart in the quiet of the night.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第47籤【中平】",
+        "type": "中平",
+        "text": "あなたに伝えたい言葉は山ほどある。ただ、あなたの名誉を平和的に回復し、受けた仕打ちを晴らしたいだけだ。訴訟は必ず悪い結果を招く。このことを覚えておいてほしい。静かな夜に、自分の心を見つめ直してみてほしい。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제47괘【중평】",
+        "type": "중평",
+        "text": "당신에게 하고 싶은 말이 천 마디도 넘지만, 그저 평화롭게 당신의 명예를 회복하고 억울한 일을 바로잡고 싶을 뿐입니다. 소송은 결국 좋지 않은 결과로 이어질 뿐이니, 이 점을 명심하십시오. 고요한 밤에 당신의 마음을 깊이 들여다보세요.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 48,
+    "number": "第48籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第48籤【中吉】",
+        "type": "中吉",
+        "text": "登山涉水正天寒\r\n兄弟姻親那得安\r\n不遇虎頭人一喚\r\n全家誰保汝重歡",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.48 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Climbing mountains and wading through rivers in the bitter cold, how can brothers and relatives find peace? If not for the call of the Tiger Head, who will protect your family and bring you joy again?",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第48籤【中吉】",
+        "type": "中吉",
+        "text": "極寒の中、山を登り、川を渡る兄弟や親族は、どうして心の安らぎを見いだせるだろうか？虎頭の呼び声がなければ、誰が家族を守り、再び喜びをもたらしてくれるだろうか？",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제48괘【중길】",
+        "type": "중길",
+        "text": "매서운 추위 속에서 산을 오르고 강을 건너며, 형제와 가족은 어떻게 평화를 찾을 수 있을까? 호랑이 머리의 부름이 없다면, 누가 당신의 가족을 지키고 다시 기쁨을 가져다줄까?",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 49,
+    "number": "第49籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第49籤【下下】",
+        "type": "下下",
+        "text": "彼此居家只一山\r\n如何似隔鬼門關\r\n日月如梭人易老\r\n許多勞碌不如閒",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.49 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "We live just a mountain apart, yet it feels like we're separated by the gates of hell. Time flies, and we grow old quickly. Much toil is not as good as leisure.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第49籤【凶】",
+        "type": "凶",
+        "text": "私たちはたった山を隔てただけの場所に住んでいるのに、まるで地獄の門で隔てられているかのようだ。時はあっという間に過ぎ、私たちはすぐに年老いてしまう。多くの苦労は、余暇ほど良いものではない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제49괘【하하】",
+        "type": "하하",
+        "text": "산 하나만 넘으면 닿을 거리에 살지만, 마치 지옥의 문으로 갈라진 것처럼 느껴집니다. 시간은 빠르게 흘러가고, 우리는 금세 늙어갑니다. 고된 노동보다는 한가로운 시간이 훨씬 낫습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 50,
+    "number": "第50籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第50籤【上吉】",
+        "type": "上吉",
+        "text": "人說今年勝去年\r\n也須步步要週旋\r\n一家和氣多生福\r\n萋菲讒言莫聽偏",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.50 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "People say this year will be better than last year, but we must still navigate each step carefully. A harmonious family brings many blessings; don't listen to slanderous words.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第50籤【上吉】",
+        "type": "上吉",
+        "text": "今年は昨年よりも良い年になると言う人もいますが、それでも一歩一歩慎重に進まなければなりません。円満な家庭は多くの祝福をもたらします。中傷の言葉に耳を傾けてはいけません。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제50괘【상길】",
+        "type": "상길",
+        "text": "사람들은 올해가 작년보다 나을 거라고 말하지만, 우리는 여전히 한 걸음 한 걸음 신중하게 나아가야 합니다. 화목한 가정은 많은 축복을 가져다줍니다. 험담에 귀 기울이지 마십시오.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 51,
+    "number": "第51籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第51籤【上吉】",
+        "type": "上吉",
+        "text": "君今百事且隨緣\r\n水到渠成聽自然\r\n莫嘆年來不如意\r\n喜逢新運稱心田",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.51 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Let things take their natural course; let things unfold naturally. Don't lament the past year's misfortunes; rejoice in the new year's fortunes and find contentment.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第51籤【上吉】",
+        "type": "上吉",
+        "text": "物事は自然な流れに任せ、自然に展開するに任せましょう。過ぎ去った年の不幸を嘆くのではなく、新しい年の幸運を喜び、満足を見出しましょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제51괘【상길】",
+        "type": "상길",
+        "text": "모든 일이 자연스럽게 흘러가도록 내버려 두세요. 지난 한 해의 불행을 한탄하지 말고, 새해의 행운을 기뻐하고 만족을 찾으세요.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 52,
+    "number": "第52籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第52籤【上吉】",
+        "type": "上吉",
+        "text": "兀坐幽居歎寂寥\r\n孤燈掩映度清宵\r\n黃金忽報秋光好\r\n活計扁舟渡北朝",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.52 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Sitting alone in my secluded dwelling, I sigh at my loneliness; A solitary lamp casts its glow through the quiet night; Suddenly, news arrives of autumn's beauty; My livelihood is a small boat crossing the northern border.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第52籤【上吉】",
+        "type": "上吉",
+        "text": "人里離れた住居に一人座り、孤独にため息をつく。静かな夜に、たった一つの灯りが光を放つ。突然、秋の美しさの知らせが届く。私の生計は、北の国境を越える小さな船に乗ることだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제52괘【상길】",
+        "type": "상길",
+        "text": "외딴 집에 홀로 앉아 외로움에 한숨을 쉬네. 외로운 등불 하나가 고요한 밤을 밝히네. 그때 갑자기 가을의 아름다움에 대한 소식이 전해지네. 나의 생계는 북쪽 국경을 넘는 작은 배 한 척에 달려 있네.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 53,
+    "number": "第53籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第53籤【下下】",
+        "type": "下下",
+        "text": "艱難險阻路蹊蹺\r\n南鳥孤飛依北巢\r\n今日貴人曾識面\r\n相逢卻在夏秋交",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.53 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "The road is fraught with difficulties and obstacles; a lone bird from the south flies to its northern nest. Today, I meet a familiar face; yet our reunion comes at the turn of summer and autumn.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第53籤【凶】",
+        "type": "凶",
+        "text": "道は困難と障害に満ちている。一羽の鳥が南から北の巣へと飛んでいく。今日、私は見覚えのある顔に出会う。しかし、私たちの再会は夏から秋への移り変わりの時期に訪れた。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제53괘【하하】",
+        "type": "하하",
+        "text": "길은 어려움과 장애물로 가득 차 있다. 남쪽에서 온 외로운 새 한 마리가 북쪽 둥지로 날아간다. 오늘 나는 낯익은 ​​얼굴을 만난다. 하지만 우리의 재회는 여름과 가을이 바뀌는 시기에 이루어졌다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 54,
+    "number": "第54籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第54籤【中平】",
+        "type": "中平",
+        "text": "萬人叢裏逞英豪\r\n便欲飛騰霄漢高\r\n爭奈承流風未便\r\n青燈黃卷且勤勞",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.54 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Amidst a sea of ​​thousands, I display my heroism; I yearn to soar to the heavens; but alas, the prevailing winds prevent me from doing so; I humbly dedicate myself to my studies by lamplight.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第54籤【中平】",
+        "type": "中平",
+        "text": "何千もの人々の海の中で、私は英雄的な振る舞いを見せつけ、天高く舞い上がりたいと切望する。しかし、ああ、逆風がそれを阻む。私はランプの灯りの下、謙虚に学問に身を捧げる。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제54괘【중평】",
+        "type": "중평",
+        "text": "수많은 인파 속에서 나는 영웅적인 면모를 드러내고, 하늘 높이 솟아오르기를 갈망하지만, 아쉽게도 거센 바람이 나를 가로막는다. 나는 겸손하게 등불 아래서 학업에 전념한다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 55,
+    "number": "第55籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第55籤【中平】",
+        "type": "中平",
+        "text": "勤耕力作莫蹉跎\r\n衣食隨時安分過\r\n縱使經商收倍利\r\n不如逐歲廩米多",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.55 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Work diligently and don't waste time; live contentedly with food and clothing as needed; even if you reap double the profits in business, it's not as good as having a steady annual stipend.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第55籤【中平】",
+        "type": "中平",
+        "text": "勤勉に働き、時間を無駄にしないこと。必要な食料と衣服で満足して暮らすこと。たとえ商売で2倍の利益を得たとしても、安定した年俸を得ることにはかないません。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제55괘【중평】",
+        "type": "중평",
+        "text": "부지런히 일하고 시간을 낭비하지 마십시오. 필요한 음식과 옷을 갖추고 만족스럽게 사십시오. 사업에서 두 ​​배의 이익을 얻는다 해도, 안정적인 연간 생활비만큼 좋은 것은 없습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 56,
+    "number": "第56籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第56籤【下下】",
+        "type": "下下",
+        "text": "心頭理曲強詞遮\r\n直欲欺官行路斜\r\n一旦醜形臨月鏡\r\n身投憲網莫咨嗟",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.56 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "He feigned ignorance, his heart filled with misunderstandings; He sought to deceive officials, his path crooked; Once his shameful form was revealed before the mirror, He could not lament his fate, nor could he bear to be caught in the net of justice.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第56籤【凶】",
+        "type": "凶",
+        "text": "彼は無知を装い、心は誤解で満ちていた。彼は役人を欺こうとし、その道は曲がっていた。しかし、鏡の前に恥ずべき姿が露わになると、彼は自分の運命を嘆くこともできず、正義の網に捕まることも耐えられなかった。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제56괘【하하】",
+        "type": "하하",
+        "text": "그는 모르는 척했지만 마음은 오해로 가득 차 있었다. 관리들을 속이려 했고, 그의 길은 굽었다. 마침내 그의 수치스러운 모습이 거울 앞에 드러나자, 그는 자신의 운명을 한탄할 수도, 정의의 덫에 걸리는 것도 견딜 수 없었다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 57,
+    "number": "第57籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第57籤【中平】",
+        "type": "中平",
+        "text": "事端百出慮雖長\r\n莫聽人言自主張\r\n一著仙機君記取\r\n紛紛鬧裏更思量",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.57 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Though troubles abound and worries are long-standing, do not listen to others and act on your own. Remember this divine wisdom, and ponder further amidst the chaos.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第57籤【中平】",
+        "type": "中平",
+        "text": "困難が山積し、不安が長引こうとも、他人の言うことに耳を傾けず、自分の力で行動しなさい。この神聖な知恵を心に留め、混沌の中でさらに深く考えを巡らせなさい。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제57괘【중평】",
+        "type": "중평",
+        "text": "온갖 어려움이 닥치고 걱정이 끊이지 않더라도, 남의 말에 귀 기울이지 말고 스스로 행동하십시오. 이 신성한 지혜를 기억하고 혼돈 속에서도 깊이 생각하십시오.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 58,
+    "number": "第58籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第58籤【上吉】",
+        "type": "上吉",
+        "text": "蘇秦三寸足平生\r\n富貴功名在此行\r\n更好修為陰騭事\r\n前程萬里自通亨",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.58 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Su Qin's life was made up of three inches of foot; wealth and fame came from this journey; better to cultivate good deeds in secret; a bright future will naturally follow.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第58籤【上吉】",
+        "type": "上吉",
+        "text": "蘇秦の人生はわずか3インチの歩みで成り立っていた。富と名声はこの旅から得られたものであり、むしろ密かに善行を積む方が良い。そうすれば明るい未来は自然とついてくるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제58괘【상길】",
+        "type": "상길",
+        "text": "소진의 인생은 세 발자국의 여정으로 이루어졌다. 부와 명예는 이 여정에서 비롯되었다. 남몰래 선행을 쌓으면 밝은 미래는 자연스럽게 따라온다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 59,
+    "number": "第59籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第59籤【中平】",
+        "type": "中平",
+        "text": "門衰戶冷苦伶仃\r\n可嘆祈求不一靈\r\n幸有祖宗陰騭在\r\n香煙未斷續螟蛉",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.59 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "The household is dilapidated, the house is cold, and the incense burns out in vain.\n\nAlas, prayers go unanswered.\n\nFortunately, the blessings of our ancestors remain,\n\nThe incense smoke continues to burn, and the adopted son...",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第59籤【中平】",
+        "type": "中平",
+        "text": "家は荒れ果て、家は寒々とし、線香はむなしく燃え尽きる。\n\nああ、祈りは聞き届けられない。\n\n幸いにも、先祖の祝福は残っている。\n\n線香の煙は燃え続け、養子は……",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제59괘【중평】",
+        "type": "중평",
+        "text": "집은 허물어지고, 집 안은 춥고, 향은 헛되이 꺼져간다.\n\n슬프게도, 기도는 응답받지 못한다.\n\n그러나 다행히 조상들의 축복은 남아 있다.\n\n향 연기는 계속 타오르고, 양아들은…",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 60,
+    "number": "第60籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第60籤【上上】",
+        "type": "上上",
+        "text": "羨君兄弟好名聲\r\n一意謙撝莫自矜\r\n丹詔槐黃消息近\r\n巍巍科甲兩同登",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.60 【上上】",
+        "type": "上上",
+        "text": "I admire your brothers' fine reputation; Be humble and unassuming, For news of the imperial edict and the flourishing of the locust trees is near; You two have both achieved high honors in the imperial examinations.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第60籤【上上】",
+        "type": "上上",
+        "text": "私はあなたの兄弟たちの素晴らしい評判を尊敬しています。謙虚で控えめでいてください。天皇の勅令とイナゴマメの繁栄の知らせが間近に迫っています。あなたたち二人は科挙で高い成績を収めました。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제60괘【上上】",
+        "type": "上上",
+        "text": "나는 너희 형들의 훌륭한 평판에 감탄한다. 겸손하고 소박한 자세를 유지하거라. 황제의 칙령과 아카시아 나무의 개화 소식이 곧 전해질 것이니 말이다. 너희 두 사람은 과거 시험에서 모두 높은 영예를 얻었다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 61,
+    "number": "第61籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第61籤【中吉】",
+        "type": "中吉",
+        "text": "嘯聚山林兇惡儔\r\n善良無事苦煎憂\r\n主人大笑出門去\r\n不用干戈盜賊休",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.61 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "A ruthless band of thieves gathers in the mountains; The kind suffer unjustly; The master laughs and goes out; No need for war, the thieves are at peace.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第61籤【中吉】",
+        "type": "中吉",
+        "text": "山中に残忍な盗賊の一団が集まる。善良な人々は不当に苦しめられる。主人は笑って立ち去る。戦争は必要ない、盗賊たちは平和だ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제61괘【중길】",
+        "type": "중길",
+        "text": "무자비한 도적떼가 산에 모여들었네. 착한 사람들은 부당하게 고통받고, 주인은 웃으며 떠나네. 전쟁은 필요 없으니, 도적들은 평화롭게 지내네.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 62,
+    "number": "第62籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第62籤【中吉】",
+        "type": "中吉",
+        "text": "百千人面虎狼心\r\n賴汝干戈用力深\r\n得勝回時秋漸老\r\n虎頭城裏喜相尋",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.62 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "A hundred thousand faces, tigers and wolves in heart; relying on your deep strength in battle; returning victorious as autumn deepens; joyfully seeking each other in Tiger Head City.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第62籤【中吉】",
+        "type": "中吉",
+        "text": "十万の顔、心は虎狼。戦いではあなたの深い力に頼り、秋が深まるにつれて勝利を収めて帰還し、虎頭城で喜びのうちに互いを求め合う。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제62괘【중길】",
+        "type": "중길",
+        "text": "십만 개의 얼굴, 마음속엔 호랑이와 늑대가 공존하며, 당신의 깊은 힘에 의지해 전투를 치르고, 가을이 깊어질수록 승리하여 돌아오며, 호랑이 머리 도시에서 기쁨으로 서로를 찾아갑니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 63,
+    "number": "第63籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第63籤【中吉】",
+        "type": "中吉",
+        "text": "曩時征北且圖南\r\n筋力雖衰尚一堪\r\n欲識生前君大數\r\n前三三與後三三",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.63 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "In the past, I campaigned north and plotted south; though my strength had waned, I was still capable. To know the great destiny of the ruler before his death, one must know the preceding three-three and the following three-three.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第63籤【中吉】",
+        "type": "中吉",
+        "text": "かつて私は北へ遠征し、南へ策略を巡らせた。力は衰えたものの、まだその能力は健在だった。君主の偉大な運命を死前に知るには、その前後の三三と三三を知らなければならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제63괘【중길】",
+        "type": "중길",
+        "text": "과거에 나는 북쪽으로 원정을 떠나 남쪽에서 계략을 꾸몄다. 비록 내 기력은 약해졌지만, 여전히 능력이 있었다. 통치자의 위대한 운명을 죽기 전에 알기 위해서는 그 이전의 삼삼과 그 이후의 삼삼을 알아야 한다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 64,
+    "number": "第64籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第64籤【上上】",
+        "type": "上上",
+        "text": "吉人相遇本和同\r\n況有持謀天水翁\r\n人力不勞公論協\r\n事成功倍笑談中",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.64 【上上】",
+        "type": "上上",
+        "text": "Good fortune brings people together in harmony; Moreover, the wise old man of Tianshui has a plan; Human effort is unnecessary, public opinion is in agreement; Success is achieved in jest.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第64籤【上上】",
+        "type": "上上",
+        "text": "幸運は人々を調和のうちに結びつける。さらに、天水の賢老人は計画を持っている。人の努力は不要、世論は一致している。成功は冗談で達成される。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제64괘【上上】",
+        "type": "上上",
+        "text": "행운은 사람들을 화목하게 모읍니다. 게다가 천수현의 현명한 노인은 꾀를 냈습니다. 사람의 노력은 필요 없고, 여론도 일치하니, 성공은 농담 속에 이루어집니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 65,
+    "number": "第65籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第65籤【上上】",
+        "type": "上上",
+        "text": "朔風凜凜正窮冬\r\n漸覺門庭喜氣濃\r\n更入新春人事後\r\n衷言方得信先容",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.65 【上上】",
+        "type": "上上",
+        "text": "The north wind howls in the depths of winter, yet a growing sense of joy fills the air. As the New Year celebrations unfold, only then can I receive your sincere introduction.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第65籤【上上】",
+        "type": "上上",
+        "text": "真冬の真っ只中、北風が唸りを上げる。それでも、次第に高まる喜びの気配が空気を満たしていく。新年の祝祭が幕を開ける時、ようやくあなたの心からの自己紹介をお受けできるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제65괘【上上】",
+        "type": "上上",
+        "text": "한겨울 북풍이 휘몰아치지만, 점차 기쁨이 공기를 가득 채웁니다. 새해 축제가 펼쳐지는 그때서야 ​​비로소 당신의 진심 어린 소개를 들을 수 있을 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 66,
+    "number": "第66籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第66籤【上上】",
+        "type": "上上",
+        "text": "耕耘只可在鄉邦\r\n何用求謀向外方\r\n只見今年新運好\r\n門闌喜氣事雙雙",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.66 【上上】",
+        "type": "上上",
+        "text": "Farming is only possible in one's hometown; why seek fortune elsewhere? This year brings good luck; joyous events abound at the door.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第66籤【上上】",
+        "type": "上上",
+        "text": "農業は故郷でしかできない。なぜ他所で幸運を求める必要があるだろうか？今年は幸運に恵まれ、喜びの出来事が次々と訪れるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제66괘【上上】",
+        "type": "上上",
+        "text": "농사는 고향에서만 가능한데, 왜 다른 곳에서 행운을 찾아 헤매겠는가? 올해는 행운이 가득하고, 즐거운 일들이 끊이지 않을 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 67,
+    "number": "第67籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第67籤【中平】",
+        "type": "中平",
+        "text": "纔發君心天已知\r\n何須問我決狐疑\r\n願子改圖從孝悌\r\n不愁家室不相宜",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.67 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Heaven already knows your heart; why ask me to resolve your doubts? I wish you would change your ways and follow filial piety and brotherly love; then you will have no worries about an unsuitable family.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第67籤【中平】",
+        "type": "中平",
+        "text": "天は既にあなたの心を知っているのに、なぜ私にあなたの疑念を晴らしてほしいと頼むのですか？ あなたが生き方を変え、親孝行と兄弟愛を実践すれば、不適切な家族関係に悩むこともなくなるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제67괘【중평】",
+        "type": "중평",
+        "text": "하늘은 이미 당신의 마음을 알고 있습니다. 그런데 왜 제게 당신의 의심을 풀어달라고 하십니까? 부디 당신의 잘못된 행동을 고치고 효도와 형제애를 실천한다면, 부적절한 집안에 대한 걱정은 없을 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 68,
+    "number": "第68籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第68籤【中吉】",
+        "type": "中吉",
+        "text": "南販珍珠北販鹽\r\n年來幾倍貨財添\r\n勸君止此求田舍\r\n心欲多時何日厭",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.68 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Selling pearls in the south and salt in the north, their wealth has multiplied several times over the years. I advise you to stop here and seek a simple life in the countryside; when will your desires ever be satisfied?",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第68籤【中吉】",
+        "type": "中吉",
+        "text": "南で真珠を、北で塩を売って、彼らは長年にわたって富を何倍にも増やしてきた。ここで立ち止まり、田舎で質素な生活を送ることをお勧めする。あなたの欲望はいつになったら満たされるのだろうか？",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제68괘【중길】",
+        "type": "중길",
+        "text": "남쪽에서는 진주를, 북쪽에서는 소금을 팔아 수년에 걸쳐 재산을 몇 배로 불렸습니다. 저는 당신에게 여기서 그만두고 시골에서 소박한 삶을 살라고 권합니다. 당신의 욕망은 언제쯤 충족될까요?",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 69,
+    "number": "第69籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第69籤【中平】",
+        "type": "中平",
+        "text": "捨舟遵路總相宜\n慎勿嬉遊逐貴兒\n一夜樽前兄與弟\n明朝仇敵又相隨",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.69 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Abandoning the boat and following the road is always the best course of action; Be careful not to frolic and chase after noble children; One night, brothers and buddies gather before a wine cup; Tomorrow, enemies will be with you again.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第69籤【中平】",
+        "type": "中平",
+        "text": "船を捨てて陸路を進むのが常に最善の策である。高貴な子供たちを追いかけてはいけない。ある夜、兄弟や仲間が酒杯を囲んで集まる。明日には、また敵が君のそばに現れるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제69괘【중평】",
+        "type": "중평",
+        "text": "배를 버리고 길을 따라가는 것이 언제나 최선의 선택이다. 귀족 아이들을 쫓아다니며 장난치지 않도록 조심하라. 어느 날 밤 형제와 친구들이 술잔 앞에 모이지만, 내일이면 다시 적들이 너희와 함께할 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 70,
+    "number": "第70籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第70籤【中吉】",
+        "type": "中吉",
+        "text": "雷雨風雲各有司\r\n至誠禱告莫生疑\r\n與君定約為霖日\r\n正是蘊隆中伏時",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.70 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Thunder, rain, wind, and clouds each have their own officials; Sincere prayers should not breed doubt; We have made a promise to you for a day of rain; This is precisely the time when the heat of summer is at its peak.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第70籤【中吉】",
+        "type": "中吉",
+        "text": "雷、雨、風、雲にはそれぞれ守護者がいる。真摯な祈りは疑念を生むべきではない。私たちはあなたに雨の日を約束した。まさに今が夏の暑さがピークを迎える時だ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제70괘【중길】",
+        "type": "중길",
+        "text": "천둥, 비, 바람, 구름에는 각각 제각기 담당관이 있습니다. 진심 어린 기도에는 의심이 생겨서는 안 됩니다. 우리는 당신에게 비를 내려주겠다고 약속했습니다. 바로 지금이 여름 더위가 절정에 달하는 때입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 71,
+    "number": "第71籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第71籤【中吉】",
+        "type": "中吉",
+        "text": "喜鵲簷前報好音\r\n知君千里欲歸心\r\n繡幃重結鴛鴦帶\r\n葉落霜凋暮色侵",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.71 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Magpies herald good news from the eaves, knowing your heart yearns to return from a thousand miles away. The embroidered curtains are re-tied with mandarin duck sashes, as leaves fall, frost withers, and twilight descends.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第71籤【中吉】",
+        "type": "中吉",
+        "text": "カササギは軒先から吉報を告げ、あなたが千マイルも離れた場所から故郷へ帰りたいと切望していることを知っている。葉が落ち、霜が消え、夕暮れが訪れる頃、刺繍の施されたカーテンはオシドリの模様の帯で結び直される。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제71괘【중길】",
+        "type": "중길",
+        "text": "까치들이 처마 밑에서 좋은 소식을 전하며, 천 마일이나 떨어진 곳에서 돌아오고 싶어 하는 당신의 마음을 알고 있습니다. 나뭇잎이 떨어지고 서리가 녹고 황혼이 내려앉자, 수놓은 커튼은 원앙 깃털로 만든 띠로 다시 묶입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 72,
+    "number": "第72籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第72籤【中平】",
+        "type": "中平",
+        "text": "河渠傍路有高低\r\n可歎長途日已西\r\n縱有榮華好時節\r\n直須猴犬換金雞",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.72 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "The river and canal sway beside the road, rising and falling; alas, the long journey has already begun, the sun already setting; even in times of glory and prosperity, one must wait until the monkey and dog are exchanged for the golden rooster.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第72籤【中平】",
+        "type": "中平",
+        "text": "川と運河は道の脇で揺れ動き、上下する。ああ、長い旅は既に始まっており、太陽は既に沈みつつある。栄光と繁栄の時代にあっても、猿と犬が黄金の雄鶏に取って代わられるまで待たなければならないのだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제72괘【중평】",
+        "type": "중평",
+        "text": "강과 운하는 길 옆으로 출렁이며 수위가 오르락내리락한다. 아아, 기나긴 여정은 이미 시작되었고, 해는 벌써 지고 있다. 영광과 번영의 시대에도 원숭이와 개가 황금 닭으로 바뀌는 날을 기다려야만 한다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 73,
+    "number": "第73籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第73籤【下下】",
+        "type": "下下",
+        "text": "憶昔蘭房分半釵\r\n而今忽把信音乖\r\n痴心指望成連理\r\n到底誰知事不諧",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.73 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "I remember the day we shared a hairpin in our boudoir, but now news of our union has suddenly vanished. My devoted heart hoped we would be united, but who knew things would turn out so tragically?",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第73籤【凶】",
+        "type": "凶",
+        "text": "寝室で二人でヘアピンを分け合った日のことを覚えているけれど、私たちの結びつきの噂は突然消えてしまった。私の心は二人が結ばれることを切望していたけれど、まさかこんな悲劇的な結末を迎えるとは誰が想像できただろうか。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제73괘【하하】",
+        "type": "하하",
+        "text": "침실에서 함께 머리핀을 주고받던 날이 기억나는데, 이제 우리의 결합 소식은 갑자기 사라져 버렸어. 진심으로 우리가 하나가 되기를 바랐는데, 이렇게 비극적인 결말이 올 줄 누가 알았겠어?",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 74,
+    "number": "第74籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第74籤【上吉】",
+        "type": "上吉",
+        "text": "崔巍崔魏復崔巍\r\n履險如夷去復來\r\n身似菩提心似鏡\r\n長安一道放春回",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.74 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Towering and majestic, towering and majestic again; treading perilous paths as if on flat ground, coming and going again; body like a Bodhi tree, mind like a mirror; spring returns to Chang'an along the way.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第74籤【上吉】",
+        "type": "上吉",
+        "text": "そびえ立ち、雄大で、またそびえ立ち、雄大で、まるで平地を歩くかのように危険な道を歩み、行き来を繰り返す。体は菩提樹のようで、心は鏡のよう。その道の途中で、長安に春が戻ってくる。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제74괘【상길】",
+        "type": "상길",
+        "text": "높고 위엄 넘치는, 다시 높고 위엄 넘치는; 험난한 길을 마치 평지처럼 걷고 또 오고 가네; 몸은 보리수 같고 마음은 거울 같네; 봄은 그 길을 따라 장안에 돌아오네.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 75,
+    "number": "第75籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第75籤【中吉】",
+        "type": "中吉",
+        "text": "生前結得好緣姻\r\n一笑相逢情自親\r\n相當人物無高下\r\n得意休論富與貧",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.75 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "A blessed marriage was formed in life; a smile upon meeting brings instant affection; comparable individuals are not ranked; in times of success, wealth and poverty are irrelevant.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第75籤【中吉】",
+        "type": "中吉",
+        "text": "幸せな結婚生活が人生の中で築かれ、出会った瞬間の笑顔が瞬時に愛情を生み出し、同等の人々を優劣で判断することはなく、成功の時においては富と貧困は関係ない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제75괘【중길】",
+        "type": "중길",
+        "text": "삶 속에서 축복받은 결혼 생활이 시작되었고, 첫 만남의 미소는 금세 애정을 불러일으키며, 서로를 비교하며 서열을 매길 수 없고, 성공의 순간에는 부와 가난이 아무런 의미가 없다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 76,
+    "number": "第76籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第76籤【中平】",
+        "type": "中平",
+        "text": "三千法律八千文\r\n此事何如說與君\r\n善惡兩途君自作\r\n一生禍福此中分",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.76 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Three thousand laws, eight thousand articles; how can I explain this matter to you? The paths of good and evil are yours to choose; your fortune and misfortune are determined by this.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第76籤【中平】",
+        "type": "中平",
+        "text": "三千の法律、八千の条項。このことをどう説明すればいいのでしょう？善悪の道を選ぶのはあなた次第。あなたの幸運と不運は、それによって決まるのです。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제76괘【중평】",
+        "type": "중평",
+        "text": "삼천 개의 법과 팔천 개의 조항이여, 내가 어찌 이것을 너희에게 설명하겠느냐? 선과 악의 길은 너희가 선택하는 것이며, 너희의 운명과 불행은 그것에 의해 결정된다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 77,
+    "number": "第77籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第77籤【中下】",
+        "type": "中下",
+        "text": "木有根荄水有源\r\n君當自此究其原\r\n莫隨道路人閒話\r\n訟則終凶是至言",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.77 【Moderate Low Fortune】",
+        "type": "Moderate Low Fortune",
+        "text": "A tree has roots, a river has a source; you should investigate its origin from there; do not listen to idle gossip on the road; litigation will ultimately lead to misfortune—this is a wise saying.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第77籤【中下吉】",
+        "type": "中下吉",
+        "text": "木には根があり、川には源流がある。そこからその起源を調査すべきである。道端のたわごとを聞いてはならない。訴訟は最終的に不幸を招く――これは賢明な格言である。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제77괘【중하】",
+        "type": "중하",
+        "text": "나무에는 뿌리가 있고, 강에는 수원지가 있으니 그 근원을 살펴보아야 합니다. 길거리에서 하는 쓸데없는 험담에 귀 기울이지 마십시오. 소송은 결국 불행으로 이어집니다. 이는 현명한 말씀입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 78,
+    "number": "第78籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第78籤【下下】",
+        "type": "下下",
+        "text": "家道豐腴自飽溫\r\n也須肚裏立乾坤\r\n財多害己君當省\r\n福有胚胎禍有門",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.78 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "A prosperous family ensures basic needs are met, but one must also cultivate inner peace. Excessive wealth can be harmful; one should be mindful of this. Fortune may have its seeds, but misfortune may have its gates.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第78籤【凶】",
+        "type": "凶",
+        "text": "裕福な家庭は基本的なニーズを満たしてくれるが、心の平安も育まなければならない。過剰な富は有害になり得る。このことを心に留めておくべきだ。幸運には種があるように、不幸にも門があるのだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제78괘【하하】",
+        "type": "하하",
+        "text": "풍족한 가정은 기본적인 필요를 충족시켜 주지만, 내면의 평화 또한 지켜야 합니다. 지나친 부는 해로울 수 있으므로 항상 명심해야 합니다. 행운은 씨앗에서 싹이 트지만, 불행은 문턱에서 찾아오는 법입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 79,
+    "number": "第79籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第79籤【中平】",
+        "type": "中平",
+        "text": "乾亥來龍仔細看\r\n坎居午向自當安\r\n若移丑艮陰陽逆\r\n門戶凋零家道難",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.79 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Examine the dragon vein from the Qian-Hai direction carefully; a dwelling facing Wu (午) is naturally auspicious. However, if moved to Chou (丑) or Gen (艮), the Yin and Yang will be reversed, leading to the decline of the household and hardship of the family.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第79籤【中平】",
+        "type": "中平",
+        "text": "千海方位から龍脈を注意深く調べると、午の方角に面した住居は本来縁起が良い。しかし、丑や艮の方角に移すと陰陽が逆転し、家柄の衰退や家族の苦難を招くことになる。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제79괘【중평】",
+        "type": "중평",
+        "text": "건해 방향에서 용맥을 자세히 살펴보면, 오(午)를 향한 집은 본래 길하다. 그러나 주(丑)나 간(艮) 방향으로 옮기면 음양의 균형이 깨져 집안이 쇠락하고 가정이 어려워진다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 80,
+    "number": "第80籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第80籤【中平】",
+        "type": "中平",
+        "text": "一朝無事忽遭官\r\n也是門衰墳未安\r\n改換陰陽移禍福\r\n勸君莫作等閒看",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.80 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Suddenly, when all is well, official trouble strikes;\nIt also signifies a declining family and an unsettled grave.\n\nChange the balance of Yin and Yang to alter fortune and misfortune;\nI urge you not to take this lightly.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第80籤【中平】",
+        "type": "中平",
+        "text": "すべてが順調な時に、突然、公的な問題が襲いかかる。\n\nそれはまた、家族の衰退と墓の安寧の不吉さを暗示している。\n\n陰陽のバランスを整えることで、吉凶を逆転させることができる。\n\n決して軽視してはならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제80괘【중평】",
+        "type": "중평",
+        "text": "모든 것이 순조로울 때 갑자기 관직에 문제가 생깁니다.\n\n이는 또한 가문의 몰락과 불안정한 무덤을 예고합니다.\n\n음양의 균형을 바꾸어 운명을 바꿀 수 있으니,\n결코 가볍게 여기지 마십시오.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 81,
+    "number": "第81籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第81籤【中吉】",
+        "type": "中吉",
+        "text": "假君財物自當還\r\n謀賴欺心他自奸\r\n幸有高臺明月鏡\r\n請來對照破機關",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.81 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "The false lord's property should be returned; his deceitful schemes and treachery are self-inflicted. Fortunately, there is a bright mirror on a high platform; let us use it to examine and dispel his schemes.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第81籤【中吉】",
+        "type": "中吉",
+        "text": "偽りの領主の財産は返還されるべきである。彼の欺瞞的な策略と裏切りは自業自得だ。幸いにも、高い台座の上に輝く鏡がある。それを用いて彼の策略を吟味し、打ち砕こう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제81괘【중길】",
+        "type": "중길",
+        "text": "거짓 군주의 재산은 돌려줘야 합니다. 그의 기만적인 계략과 배신은 자업자득입니다. 다행히 높은 단상 위에 밝은 거울이 있으니, 그 거울을 사용하여 그의 계략을 살펴보고 무너뜨립시다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 82,
+    "number": "第82籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第82籤【上吉】",
+        "type": "上吉",
+        "text": "彼亦儔中一輩賢\r\n勸君特達與周旋\r\n此時賓主歡相會\r\n他日王侯卻並肩",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.82 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "He is also a wise man among his peers; I advise you to cultivate a relationship with him. Now, host and guest are happily together; one day, you will stand shoulder to shoulder with kings and nobles.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第82籤【上吉】",
+        "type": "上吉",
+        "text": "彼は同世代の中でも賢明な人物です。彼との関係を築くことをお勧めします。今は主人と客人が仲良く過ごしていますが、いつの日かあなたは王侯貴族と肩を並べることになるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제82괘【상길】",
+        "type": "상길",
+        "text": "그는 동료들 중에서도 현명한 사람이니, 그와 좋은 관계를 유지하도록 권합니다. 지금은 주인과 손님이 행복하게 지내고 있지만, 언젠가는 당신도 왕이나 귀족들과 어깨를 나란히 하게 될 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 83,
+    "number": "第83籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第83籤【下下】",
+        "type": "下下",
+        "text": "隨分堂前赴粥饘\r\n何須妄想苦憂煎\r\n主張門戶誠難事\r\n百歲安閒得幾年",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.83 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "Following the branch hall to offer porridge and mush\nWhy indulge in vain worries and anxieties?\nSupporting one's own household is truly a difficult task; How many years of peace and tranquility can one enjoy at a hundred years old?",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第83籤【凶】",
+        "type": "凶",
+        "text": "支部の食堂で粥とお粥をいただく\nなぜ無駄な心配や不安にふける必要があるだろうか？\n\n一家を養うことは実に大変な仕事だ。百歳になっても、どれほどの平和と平穏を享受できるだろうか？",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제83괘【하하】",
+        "type": "하하",
+        "text": "분당을 따라가 죽과 보리죽을 공양하라\n헛된 걱정과 근심에 사로잡히는 것이 어찌 된 일인가?\n자신의 가정을 부양하는 것조차 참으로 어려운 일인데, 백 살까지 얼마나 평화롭고 한가롭게 살 수 있겠는가?",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 84,
+    "number": "第84籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第84籤【中平】",
+        "type": "中平",
+        "text": "君家事緒更紛然\r\n當局須知一著先\r\n長舌婦人休酷聽\r\n力行禮義要心堅",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.84 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Your family affairs are in utter chaos; those in power must know the importance of taking the first step; do not listen to gossipy women; firmly uphold propriety and righteousness.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第84籤【中平】",
+        "type": "中平",
+        "text": "あなたの家庭事情は完全に混乱状態にあります。権力を持つ者は、まず行動を起こすことの重要性を理解しなければなりません。噂話をする女性の言うことに耳を傾けてはいけません。礼儀と正義をしっかりと守りなさい。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제84괘【중평】",
+        "type": "중평",
+        "text": "당신 집안 사정이 완전히 엉망입니다. 권력자들은 먼저 나서서 문제를 해결하는 것이 얼마나 중요한지 알아야 합니다. 험담하는 여자들의 말에 귀 기울이지 말고, 품위와 정의를 굳건히 지키십시오.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 85,
+    "number": "第85籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第85籤【中平】",
+        "type": "中平",
+        "text": "一春風雨正瀟瀟\r\n千里行人去路遙\r\n移寡就多君得計\r\n如何歸路轉無聊",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.85 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Spring winds and rains are blowing fiercely; a thousand miles of travelers have gone far. Moving from few to many, you have made a wise plan. But how can the return journey be so tedious?",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第85籤【中平】",
+        "type": "中平",
+        "text": "春の風雨が激しく吹き荒れる中、旅人たちは千里もの道のりを旅してきた。少人数から大人数へと旅を進めるあなたの計画は賢明だった。しかし、帰路はなぜこれほどまでに退屈なものになるのだろうか？",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제85괘【중평】",
+        "type": "중평",
+        "text": "봄바람과 비가 세차게 불어오고, 수많은 여행자들이 천 리 길을 걸어왔습니다. 적은 인원에서 많은 인원으로 이동하며 현명한 계획을 세웠지만, 돌아오는 길은 어째서 이토록 고단할까요?",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 86,
+    "number": "第86籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第86籤【上吉】",
+        "type": "上吉",
+        "text": "一舟行貨好招邀\r\n積少成多自富饒\r\n常把他人比自己\r\n管須日後勝今朝",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.86 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "A ship laden with goods is easy to attract; little by little, wealth will come. Always compare yourself to others; one must be prepared for a future better than today.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第86籤【上吉】",
+        "type": "上吉",
+        "text": "商品を満載した船は容易に人を引きつけ、少しずつ富がもたらされる。常に他人と自分を比較し、今日よりも良い未来に備えなければならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제86괘【상길】",
+        "type": "상길",
+        "text": "상품으로 가득 찬 배는 쉽게 끌어당길 수 있고, 조금씩 부가 쌓일 것이다. 항상 자신을 다른 사람과 비교하라. 오늘보다 더 나은 미래를 위해 준비해야 한다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 87,
+    "number": "第87籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第87籤【下下】",
+        "type": "下下",
+        "text": "陰裏詳看怪爾曹\r\n舟中敵國笑中刀\r\n藩籬剖破渾無事\r\n一種天生惜鳳毛",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.87 【Bad Fortune】",
+        "type": "Bad Fortune",
+        "text": "A closer look at you, you strange creatures; A laughing man from an enemy state on a boat, a knife in the air; The fences are shattered, and all is well; A kind of innate pity for the phoenix feather.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第87籤【凶】",
+        "type": "凶",
+        "text": "君たち奇妙な生き物たちをもっとよく見てみよう。敵国の男が船の上で笑い、ナイフを空に突き上げている。柵は打ち砕かれ、すべてはうまくいっている。不死鳥の羽根に対する、ある種の生来の憐れみ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제87괘【하하】",
+        "type": "하하",
+        "text": "좀 더 자세히 살펴보니, 너희 기묘한 존재들이로구나. 적국에서 온 남자가 배 위에서 웃으며 칼을 허공에 휘두르고 있네. 울타리는 무너졌고, 모든 것이 평화롭구나. 불사조의 깃털에 대한 본능적인 연민이 느껴지네.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 88,
+    "number": "第88籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第88籤【上吉】",
+        "type": "上吉",
+        "text": "從前作事總徒勞\r\n纔見新春時漸遭\r\n百計營求都得意\r\n更須守己莫心高",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.88 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "All my past efforts were in vain; only at the beginning of the new year did I begin to see success. All my schemes and endeavors have yielded results; therefore, I must remain steadfast and not become arrogant.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第88籤【上吉】",
+        "type": "上吉",
+        "text": "これまでの努力はすべて無駄に終わった。新年を迎えて初めて、ようやく成功の兆しが見え始めた。私のあらゆる計画と努力は実を結んだ。だからこそ、私は決して慢心せず、謙虚さを保たなければならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제88괘【상길】",
+        "type": "상길",
+        "text": "지금까지의 모든 노력이 헛수고였습니다. 새해가 시작되면서 비로소 성과를 보기 시작했습니다. 제가 세운 모든 계획과 노력이 결실을 맺었으니, 저는 흔들리지 않고 더욱 노력해야 하며 교만해져서는 안 됩니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 89,
+    "number": "第89籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第89籤【中平】",
+        "type": "中平",
+        "text": "樽前無事且高歌\r\n時未來兮奈若何\r\n白馬渡江雖日暮\r\n虎頭城裏看巍峨",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.89 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "With nothing to do before the wine cup, let us sing aloud; The time has not yet come, what can we do? Though the sun sets and the white horse crosses the river, From the majestic Tiger Head City, we gaze upon its towering peaks.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第89籤【中平】",
+        "type": "中平",
+        "text": "酒杯を前に何もすることがないのだから、大声で歌おう。まだその時が来ていないのだから、私たちに何ができるだろうか？太陽が沈み、白馬が川を渡っても、雄大な虎頭城から、そびえ立つ峰々を眺める。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제89괘【중평】",
+        "type": "중평",
+        "text": "술잔 앞에 설레는 마음으로 큰 소리로 노래하자. 아직 때가 오지 않았으니 어찌하겠어? 해가 지고 백마가 강을 건너도, 위풍당당한 호두성에서 우리는 우뚝 솟은 봉우리들을 바라본다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 90,
+    "number": "第90籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第90籤【中平】",
+        "type": "中平",
+        "text": "崆峒城裏事如麻\r\n無事如君有幾家\r\n勸汝不須勤致禱\r\n徒營生事苦咨嗟",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.90 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "The affairs of Kongtong City are in turmoil; how many families are as carefree as you? I advise you not to pray so diligently; you'll only be wasting your time and sighing in vain.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第90籤【中平】",
+        "type": "中平",
+        "text": "コントン市の情勢は混乱を極めている。あなた方のようにのんびりしている家族はどれほどいるだろうか？そんなに熱心に祈っても無駄だ。時間と労力を無駄にするだけだ。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제90괘【중평】",
+        "type": "중평",
+        "text": "공통시의 정세가 혼란스러운데, 당신처럼 마음 편한 가정이 얼마나 되겠습니까? 간절히 기도하지 마십시오. 시간만 낭비하고 헛된 한숨만 쉬게 될 뿐입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 91,
+    "number": "第91籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第91籤【中吉】",
+        "type": "中吉",
+        "text": "佛說淘沙始見金\r\n只緣君子苦勞心\r\n榮華總得詩書效\r\n妙裏工夫仔細尋",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.91 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "The Buddha said that gold is found only after sifting through sand; it is only because a virtuous person works diligently. Wealth and glory are ultimately derived from poetry and literature; the subtle techniques must be carefully sought.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第91籤【中吉】",
+        "type": "中吉",
+        "text": "仏陀は、金は砂をふるいにかけた後に初めて見つかるものだと説いた。それは、徳のある人が勤勉に努力したからこそ得られるものなのだ。富と栄光は究極的には詩と文学から生まれる。その奥深い技法を丹念に探求しなければならない。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제91괘【중길】",
+        "type": "중길",
+        "text": "부처님께서는 금은 모래를 걸러내야만 찾을 수 있다고 말씀하셨습니다. 이는 덕 있는 사람이 부지런히 노력하기 때문입니다. 부와 명예는 궁극적으로 시와 문학에서 비롯되며, 그 미묘한 기법들을 신중하게 탐구해야 합니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 92,
+    "number": "第92籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第92籤【下中】",
+        "type": "下中",
+        "text": "今年禾穀不如前\r\n物價喧騰倍百年\r\n災數流行多疫癘\r\n一陽復後始安全",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.92 【Below Average Fortune】",
+        "type": "Below Average Fortune",
+        "text": "This year's harvest is worse than before; prices have soared to double in a century; numerous disasters and epidemics have occurred; only after a resurgence of COVID-19 can safety be assured.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第92籤【末吉】",
+        "type": "末吉",
+        "text": "今年の収穫量は例年以上に悪く、物価は100年で2倍に高騰し、数々の災害や伝染病が発生し、新型コロナウイルス感染症の再流行後になって初めて安全が確保される。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제92괘【하중】",
+        "type": "하중",
+        "text": "올해 수확량은 예년보다 더 나빴고, 가격은 100년 만에 두 배로 폭등했으며, 수많은 재해와 전염병이 발생했고, 코로나19가 다시 확산된 후에야 비로소 안전을 보장할 수 있을 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 93,
+    "number": "第93籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第93籤【中平】",
+        "type": "中平",
+        "text": "春來雨水太連綿\r\n入夏晴乾雨又愆\r\n節氣直交三伏始\r\n喜逢滂沛足田園",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.93 【Average Fortune】",
+        "type": "Average Fortune",
+        "text": "Spring brought endless rains; summer brought dry skies followed by more rain; the hottest period of summer began; thankfully, abundant rains graced the fields.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第93籤【中平】",
+        "type": "中平",
+        "text": "春は雨が降り続き、夏は乾燥した空模様の後、再び雨が降った。夏の最も暑い時期が始まり、ありがたいことに、畑にはたっぷりの雨が降った。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제93괘【중평】",
+        "type": "중평",
+        "text": "봄에는 끝없는 비가 내렸고, 여름에는 맑은 하늘이 이어지다가 다시 비가 내렸습니다. 여름의 가장 더운 시기가 시작되었지만, 다행히 들판에는 풍성한 비가 쏟아졌습니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 94,
+    "number": "第94籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第94籤【中吉】",
+        "type": "中吉",
+        "text": "一般器用與人同\r\n巧斲輪輿梓匠工\r\n凡事有緣且隨分\r\n秋冬方遇主人翁",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.94 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Ordinary utensils are used by people; skillful craftsmen make wheels and carts; everything is predestined and should be done as one is destined; one will meet one's master in autumn and winter.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第94籤【中吉】",
+        "type": "中吉",
+        "text": "人々は普通の道具を使う。熟練した職人は車輪や荷車を作る。すべては定められており、定められた通りに行うべきである。人は秋と冬に自分の師に会うだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제94괘【중길】",
+        "type": "중길",
+        "text": "평범한 도구들은 사람들이 사용하고, 숙련된 장인들은 바퀴와 수레를 만듭니다. 모든 것은 정해져 있고, 각자의 운명대로 행해져야 합니다. 가을과 겨울에는 스승을 만나게 될 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 95,
+    "number": "第95籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第95籤【中吉】",
+        "type": "中吉",
+        "text": "知君袖裏有驪珠\r\n生不逢辰亦強圖\r\n可歎頭顱已如許\r\n而今方得貴人扶",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.95 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "I know you hold a precious pearl in your sleeve; though born at the wrong time, you still strive; alas, your head is already so shattered; only now have you received the help of a noble person.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第95籤【中吉】",
+        "type": "中吉",
+        "text": "あなたは袖の中に貴重な真珠を隠し持っていることを私は知っています。生まれは不運だったとはいえ、あなたはなおも努力を続けています。しかし、あなたの頭は既にひどく打ち砕かれてしまっています。今になってようやく、あなたは高貴な人物の助けを得ることができたのです。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제95괘【중길】",
+        "type": "중길",
+        "text": "나는 당신이 소매 속에 귀한 진주를 숨기고 있음을 압니다. 비록 시대에 뒤떨어졌지만, 당신은 여전히 ​​노력하고 있습니다. 아아, 당신의 마음은 이미 산산조각이 났는데, 이제야 비로소 고귀한 사람의 도움을 받게 되었군요.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 96,
+    "number": "第96籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第96籤【上吉】",
+        "type": "上吉",
+        "text": "婚姻子媳莫嫌遲\r\n但把精神仗佛持\r\n四十年前須報應\r\n功圓行滿有馨兒",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.96 【Good Fortune】",
+        "type": "Good Fortune",
+        "text": "Marriage and children should not be delayed; only rely on the Buddha's guidance; retribution will come forty years from now; with perfect merit and fulfilled deeds, a blessed child will be born.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第96籤【上吉】",
+        "type": "上吉",
+        "text": "結婚や子作りは遅らせてはいけません。ただ仏陀の教えに頼りなさい。40年後には報いが訪れます。完全な功徳と善行を積めば、祝福された子が生まれるでしょう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제96괘【상길】",
+        "type": "상길",
+        "text": "결혼과 자녀는 미루지 말고 오직 부처님의 가르침에만 의지하십시오. 그러면 40년 후에 공덕이 쌓이고 선행을 온전히 이룬 자에게 복된 아이가 태어날 것입니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 97,
+    "number": "第97籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第97籤【上上】",
+        "type": "上上",
+        "text": "五十功名心已灰\r\n那知富貴逼人來\r\n更行好事存方寸\r\n壽比岡陵位鼎台",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.97 【上上】",
+        "type": "上上",
+        "text": "At fifty, my ambition for fame and fortune has faded; little did I know wealth and honor would come knocking. I will continue to do good deeds and preserve my integrity; may my life be as long as the mountains and my position as high as the imperial court.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第97籤【上上】",
+        "type": "上上",
+        "text": "五十歳になった今、名声と富への野心は薄れてしまった。まさか富と名誉が向こうからやってくるとは夢にも思わなかった。これからも善行を続け、誠実さを貫いていこう。私の人生が山々のように長く、地位が朝廷のように高きものでありますように。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제97괘【上上】",
+        "type": "上上",
+        "text": "쉰 살이 된 지금, 명예와 부에 대한 욕심은 사라졌습니다. 부와 명예가 이렇게 먼저 찾아올 줄은 몰랐습니다. 앞으로도 선행을 베풀고 청렴함을 지키겠습니다. 제 수명이 산처럼 길고, 황실처럼 높은 지위에 오르기를 기원합니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 98,
+    "number": "第98籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第98籤【中吉】",
+        "type": "中吉",
+        "text": "經營百出費精神\r\n南北奔馳運未新\r\n玉兔交時當得意\r\n恰如枯木再逢春",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.98 【Moderate Fortune】",
+        "type": "Moderate Fortune",
+        "text": "Running a business is exhausting and draining; speeding north and south, fortune remains elusive; when the Jade Rabbit arrives, triumph will come; like a withered tree blossoming again in spring.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第98籤【中吉】",
+        "type": "中吉",
+        "text": "事業経営は疲れ果て、消耗する。北へ南へと駆け巡っても、幸運はなかなか訪れない。しかし、玉兎が現れれば、勝利は訪れる。まるで枯れ木が春に再び花を咲かせるように。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제98괘【중길】",
+        "type": "중길",
+        "text": "사업을 운영하는 것은 힘들고 지치는 일입니다. 남북으로 정신없이 뛰어다녀도 행운은 손에 잡히지 않죠. 하지만 옥토끼가 나타나면 승리가 찾아올 겁니다. 마치 시든 나무가 봄에 다시 꽃을 피우듯 말이죠.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 99,
+    "number": "第99籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第99籤【上上】",
+        "type": "上上",
+        "text": "貴人遭遇水雲鄉\r\n冷淡交情滋味長\r\n黃閣開時延故客\r\n驊騮應得驟康莊",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.99 【上上】",
+        "type": "上上",
+        "text": "A noble person encounters a tranquil place; a cold friendship lingers long; when the yellow pavilion opens, old guests are welcomed; a fine steed should soon find a smooth road ahead.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第99籤【上上】",
+        "type": "上上",
+        "text": "高貴な人物は静かな場所に出会う。冷え切った友情は長く続く。黄色の東屋が開くと、古くからの客人が迎えられる。立派な駿馬はまもなく前途順な道を見つけるだろう。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제99괘【上上】",
+        "type": "上上",
+        "text": "고귀한 사람이 고요한 곳을 만나면, 차가운 우정은 오래도록 지속되고, 황각이 열리면 오랜 손님을 맞이하며, 훌륭한 말은 곧 앞길을 평탄하게 찾아갈 것이다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
+      }
+    }
+  },
+  {
+    "id": 100,
+    "number": "第100籤",
+    "i18n": {
+      "zh-TW": {
+        "title": "第100籤【上上】",
+        "type": "上上",
+        "text": "我本天仙雷雨師\r\n吉凶禍福我先知\r\n至誠禱告皆靈驗\r\n抽得終籤百事宜",
+        "explain": "點擊下方連結體驗專人線上解籤服務。"
+      },
+      "en-US": {
+        "title": "Stick No.100 【上上】",
+        "type": "上上",
+        "text": "I am a celestial thunder and rain master, I foresee good and bad fortune, Sincere prayers are always answered, Drawing the final divination slip brings all things auspicious.",
+        "explain": "Online Interpretation Service available below."
+      },
+      "ja-JP": {
+        "title": "第100籤【上上】",
+        "type": "上上",
+        "text": "私は天界の雷雨の達人であり、吉凶を予知します。真摯な祈りは必ず叶えられ、最後の占い札を引けば、あらゆる幸運が訪れます。",
+        "explain": "詳細な解釈はオンラインサービスをご利用ください。"
+      },
+      "ko-KR": {
+        "title": "제100괘【上上】",
+        "type": "上上",
+        "text": "나는 천상의 천둥과 비의 달인으로, 길흉을 예견하며, 간절한 기도는 언제나 응답받고, 마지막 점괘를 뽑으면 모든 일이 길해집니다.",
+        "explain": "자세한 풀이는 온라인 서비스를 이용해주세요."
       }
     }
   }
