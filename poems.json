@@ -86,4 +86,1455 @@
       }
     }
   }
+    {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+    }
+  }
+  {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+    }
+  }
+    {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+    }
+  }
+      {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
+          {
+    "num": 1,
+    "i18n": {
+      "zh-TW": {
+        "title": "第一首",
+        "type": "上上吉",
+        "text": "日出東方照世間\n雲開霧散見晴天\n求官進職皆如意\n事業興隆萬事全",
+        "explain": "大吉之兆。謀事可成，運勢亨通，祈求皆能順心如意。"
+      },
+      "en-US": {
+        "title": "No. 1",
+        "type": "Supreme Fortune",
+        "text": "The sun rises in the east, illuminating the world;\nThe clouds disperse, revealing a clear sky.\nCareer advancements and requests go smooth;\nProsperity smiles upon all endeavor.",
+        "explain": "Great luck. Everything will go as planned and wishes will be granted."
+      },
+      "ja-JP": {
+        "title": "第一首",
+        "type": "大吉",
+        "text": "日が東より出て世界を照らし\n雲霧が晴れて青空が見える\n立身出世すべて思いのまま\n事業は繁栄し万事全うす",
+        "explain": "大吉のお告げ。願い事は叶い、運気は絶好調に向かいます。"
+      },
+      "ko-KR": {
+        "title": "제 1 수",
+        "type": "대길",
+        "text": "해 동쪽에서 떠올라 세상을 비추니\n구름 안개 걷히고 높은 하늘 나타나네\n원하는 일 순조롭게 이루어지니\n모든 사업과 범사가 창성하리라",
+        "explain": "대길의 괘입니다. 소망하는 일이 성취되고 운수가 대통합니다."
+      }
+    }
+  },
+  {
+    "num": 2,
+    "i18n": {
+      "zh-TW": {
+        "title": "第二首",
+        "type": "中平籤",
+        "text": "風浪滾滾未曾停\n舟行大海需謹慎\n待得風平浪靜後\n方保平安順利行",
+        "explain": "目前處於動盪期，切忌冒進。靜待時機成熟再行事為佳。"
+      },
+      "en-US": {
+        "title": "No. 2",
+        "type": "Moderate Fortune",
+        "text": "Rolling waves never seem to cease;\nNavigating the vast sea requires caution.\nWait until the wind and sea grow calm;\nOnly then can you sail smoothly and safely.",
+        "explain": "Unstable times. Avoid impulsive actions and wait for the right moment."
+      },
+      "ja-JP": {
+        "title": "第二首",
+        "type": "中吉",
+        "text": "波風立ちて止むことなし\n大海を行く舟は慎重を期せよ\n風定まり波静まるを待ちて\n初めて平安に航行できん",
+        "explain": "現在は変動の時期です。焦らず時機が至るのを待ちましょう。"
+      },
+      "ko-KR": {
+        "title": "제 2 수",
+        "type": "중평",
+        "text": "풍랑이 끊이지 않고 요동치니\n큰 바다 배를 저어가기 신중해야 하네\n바람 자고 물결 조용해지길 기다려야\n비로소 평안히 멀리 갈 수 있으리",
+        "explain": "변동이 많은 시기입니다. 무리한 추진을 피하고 때를 기다리세요."
+      }
+    }
+  },
+  {
+    "num": 3,
+    "i18n": {
+      "zh-TW": {
+        "title": "第三首",
+        "type": "下下籤",
+        "text": "烏雲密布暗天湘\n行路艱難防陷阱\n急躁衝動必招禍\n退守守分保平安",
+        "explain": "時運未佳，容易招惹是非。宜低調保守，不宜大動作投資或變更現狀。"
+      },
+      "en-US": {
+        "title": "No. 3",
+        "type": "Bad Fortune",
+        "text": "Dark clouds gather and obscure the sky;\nThe path is tough with hidden traps ahead.\nImpulsive rashness brings misfortune;\nStay humble and cautious to remain safe.",
+        "explain": "Unfavorable timing. Stay low-profile and avoid major decisions or investments."
+      },
+      "ja-JP": {
+        "title": "第三首",
+        "type": "凶",
+        "text": "暗雲立ち込めて空暗く\n道のりは険しく罠に警戒せよ\n焦りと衝動は必ず災いを招く\n控えめに守りに徹して平安を保て",
+        "explain": "運気が低迷しています。大きな決断や投資は避け、控えめに過ごしましょう。"
+      },
+      "ko-KR": {
+        "title": "제 3 수",
+        "type": "하하",
+        "text": "먹구름 자욱하여 하늘이 어두우니\n길을 가기 어렵고 함정을 조심해야 하네\n조급하고 성급함은 화를 부르니\n분수를 지키고 자중함이 평안하리라",
+        "explain": "운이 불길한 때입니다. 대외 활동이나 투자를 자제하고 때를 기다리세요."
+      }
 ]
